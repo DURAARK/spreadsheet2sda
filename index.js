@@ -9,7 +9,7 @@ var converter = new Converter({
     desc2buildm: desc2buildm
   }),
   cols = ['AA', 'AD', 'AI', 'AJ', 'AK', 'AL', 'AV', 'AZ', 'BA', 'BC', 'BL', 'BM', 'BN', 'BQ', 'BS', 'BT', 'BU', 'BW', 'BZ', 'CD', 'CI'];
-  // cols = ['AD'];
+  // cols = ['AA'];
 
 _.forEach(cols, function(col) {
   var dataset = converter.getDatasetFromSheet('MetaData', col, '9', '32'),
@@ -26,7 +26,7 @@ _.forEach(cols, function(col) {
 
     converter.getDigitalObjectsUrls(basePath, '/tmp/duraark-data', 'http://duraark.tib.eu').then(function(urls) {
       _.forEach(urls, function(url) {
-        console.log('processing URL: ' + url);
+        // console.log('processing URL: ' + url);
 
         var doJsonLD = converter.createDigitalObjectAsJsonLD(url, paJsonLD.uri);
 
