@@ -8,11 +8,11 @@ var converter = new Converter({
     metadataFilePath: metadataFilePath,
     desc2buildm: desc2buildm
   }),
-  cols = ['AA', 'AD', 'AI', 'AJ', 'AK', 'AL', 'AV', 'AZ', 'BA', 'BC', 'BL', 'BM', 'BN', 'BQ', 'BS', 'BT', 'BU', 'BW', 'BZ', 'CD', 'CI'];
-  // cols = ['AA'];
+  // cols = ['AA', 'AD', 'AI', 'AJ', 'AK', 'AL', 'AV', 'AZ', 'BA', 'BC', 'BL', 'BM', 'BN', 'BQ', 'BS', 'BT', 'BU', 'BW', 'BZ', 'CD', 'CI'];
+  cols = ['AA'];
 
 _.forEach(cols, function(col) {
-  var dataset = converter.getDatasetFromSheet('MetaData', col, '9', '32'),
+  var dataset = converter.getDatasetFromSheet('MetaData', col, '6', '32'),
     name = dataset.name;
 
   if (name) {
@@ -27,8 +27,7 @@ _.forEach(cols, function(col) {
     converter.getDigitalObjectsUrls(basePath, '/tmp/duraark-data', 'http://duraark.tib.eu').then(function(urls) {
       _.forEach(urls, function(url) {
         // console.log('processing URL: ' + url);
-
-        var doJsonLD = converter.createDigitalObjectAsJsonLD(url, paJsonLD.uri);
+        var doJsonLD = converter.createDigitalObjectAsJsonLD(url, paJsonLD.uri, dataset.rightsDetails);
 
         if (!paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy']) {
           paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy'] = [];

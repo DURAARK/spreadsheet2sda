@@ -1,4 +1,5 @@
 {
+  "E57": "rightsDetails",
   "fileBaseUrl": "fileBaseUrl",
   "URI": "uri",
   "Building Name": "name",
@@ -21,6 +22,5 @@
   "Construction Duration": "constructionTime",
   "Rebuilding Start": "rebuildingDate",
   "Modification Description": "modificationDetails",
-  "Building Cost": "cost",
-  "Rights Description": "rightsDetails"
+  "Building Cost": "cost"
 }
