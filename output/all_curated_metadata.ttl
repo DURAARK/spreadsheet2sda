@@ -1,0 +1,959 @@
+<http://data.duraark.eu/e57file_15b1a9cd97393dd35c4586e88edd234d> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_NikolajKunsthal/CITA_NikolajKunsthal.e57" .
+<http://data.duraark.eu/e57file_15b1a9cd97393dd35c4586e88edd234d> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca" .
+<http://data.duraark.eu/e57file_15b1a9cd97393dd35c4586e88edd234d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "public" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/architect> "Possibly Flemish Hans van Stenwinkel," .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "The original building was a late-Romanesque, which was replaced by a larger Gothic building around 1500. Towards the end of the century a tower was built to the west of the nave. It was completed in 1591, and is a monumental example of the Renaissance architecture. In 1909 J. C. Jacobsen, donated a new spire. A few years later Permanent Secretary Rentzmann donated the funds to build a Gothic nave – a shorter version of the one that had burnt to the ground." .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/buildingArea> "1363 m2" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/contributor> "J. C. Jacobsen and Permanent Secretary Rentzmann" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/description> "Since 1957, when Knud Petersen opened his art library, the building has played a significant role in contemporary art." .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/floorCount> "4" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_15b1a9cd97393dd35c4586e88edd234d" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/location> "Located in the heart of the inner city close to Kongens Nytorv" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/modificationDetails> "A new spire was donated after the previous one collapsed during a storm" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/name> "Kunsthallen Nikolaj" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/owner> "The Danish State" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1067" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/postalLocality> "København K" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1909" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/rightsDetails> "public" .
+<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/streetAddress> "Nikolaj Plads 10" .
+<http://data.duraark.eu/e57file_4ec7674202d987c04f159313237cfbfa> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_4ec7674202d987c04f159313237cfbfa> <http://data.duraark.eu/vocab/buildm/description> "Ground floor survey of three generation buildings, two of which connected." .
+<http://data.duraark.eu/e57file_4ec7674202d987c04f159313237cfbfa> <http://data.duraark.eu/vocab/buildm/event> "Comparison of designer BIM-model, and tolerance of the built ground-truth." .
+<http://data.duraark.eu/e57file_4ec7674202d987c04f159313237cfbfa> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/FOJAB_Landsarkivet/FOJAB_Landsarkivet_Building2014.e57" .
+<http://data.duraark.eu/e57file_4ec7674202d987c04f159313237cfbfa> <http://data.duraark.eu/vocab/buildm/format> "E57" .
+<http://data.duraark.eu/e57file_4ec7674202d987c04f159313237cfbfa> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
+<http://data.duraark.eu/e57file_4ec7674202d987c04f159313237cfbfa> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7" .
+<http://data.duraark.eu/e57file_4ec7674202d987c04f159313237cfbfa> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_6f8de4ffc801e0ac7587db2bd7e26991> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_6f8de4ffc801e0ac7587db2bd7e26991> <http://data.duraark.eu/vocab/buildm/description> "Ground floor survey of three generation buildings, two of which connected." .
+<http://data.duraark.eu/e57file_6f8de4ffc801e0ac7587db2bd7e26991> <http://data.duraark.eu/vocab/buildm/event> "Comparison of designer BIM-model, and tolerance of the built ground-truth." .
+<http://data.duraark.eu/e57file_6f8de4ffc801e0ac7587db2bd7e26991> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/FOJAB_Landsarkivet/FOJAB_Landsarkivet_Building1900_1970.e57" .
+<http://data.duraark.eu/e57file_6f8de4ffc801e0ac7587db2bd7e26991> <http://data.duraark.eu/vocab/buildm/format> "E57" .
+<http://data.duraark.eu/e57file_6f8de4ffc801e0ac7587db2bd7e26991> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
+<http://data.duraark.eu/e57file_6f8de4ffc801e0ac7587db2bd7e26991> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7" .
+<http://data.duraark.eu/e57file_6f8de4ffc801e0ac7587db2bd7e26991> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/ifcspffile_8d458b897170418fe44030f56e1d53bd> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/ifcspffile_8d458b897170418fe44030f56e1d53bd> <http://data.duraark.eu/vocab/buildm/description> "Ground floor survey of three generation buildings, two of which connected." .
+<http://data.duraark.eu/ifcspffile_8d458b897170418fe44030f56e1d53bd> <http://data.duraark.eu/vocab/buildm/event> "Comparison of designer BIM-model, and tolerance of the built ground-truth." .
+<http://data.duraark.eu/ifcspffile_8d458b897170418fe44030f56e1d53bd> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/FOJAB_Landsarkivet/FOJAB_Landsarkivet.ifc" .
+<http://data.duraark.eu/ifcspffile_8d458b897170418fe44030f56e1d53bd> <http://data.duraark.eu/vocab/buildm/format> "E57" .
+<http://data.duraark.eu/ifcspffile_8d458b897170418fe44030f56e1d53bd> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
+<http://data.duraark.eu/ifcspffile_8d458b897170418fe44030f56e1d53bd> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7" .
+<http://data.duraark.eu/ifcspffile_8d458b897170418fe44030f56e1d53bd> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/addressRegion> "SCANIA, Greater Copenhagen" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/architect> "Carl Møller 1903, Bernt Nyberg 1968-71, FOJAB arkitekter 2014" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Nordic Classicism, Functionalism/Modernism, Modern" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/description> "Regional Archives in Lund, built in 1903, by the initiative of historian Martin Weibull whose son Lauritz Weibull became its first director, archivist.  \nRegional Archives in Lund ( LLA ) was one of Sweden's ten provincial archives and had primary responsibility for the archival documents from the regional government creators in Blekinge, Skåne and Halland. But the archives also holds private archive material such as land and farm archives , private archives and business archives. Previously a separate archive, since January 1, 2010, part of the National Archives. Archives was relocated 2013 to Gastelyckan outside the city. The original premises at Arkivgatan in central Lund has been taken over by Lund Nation, and is being converted into housing." .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/floorCount> "7" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_4ec7674202d987c04f159313237cfbfa" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_6f8de4ffc801e0ac7587db2bd7e26991" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_8d458b897170418fe44030f56e1d53bd" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/location> "Central Lund" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/modificationDetails> "The building was built as part of the original\nLandsarkivet 1903. 1971, in connection with the new building, the old building was re-built into studying/reading- room.\nThe building is characterized by its large windows in the massive brick facade, and internally by the visible steel frame. Here are today both corridor with\nshared kitchen loft apartments on two floors" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/name> "LUNDS NATION LANDSARKIVET, STUDENTBOSTÄDER" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Student Housing" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/owner> "LUNDS NATION ARKIVET AB" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "223 51" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/postalLocality> "LUND" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1968" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/startDate> "1903" .
+<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/streetAddress> "LUNDS NATION, KV ARKIVET 1,\nSWEDEN" .
+<http://data.duraark.eu/ifcspffile_04766d5cc0ed098085a1e4f18495f49b> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_04766d5cc0ed098085a1e4f18495f49b> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
+<http://data.duraark.eu/ifcspffile_04766d5cc0ed098085a1e4f18495f49b> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/ifcspffile_1a81c5fecbac60fb7c97a6919e2cf46b> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_1a81c5fecbac60fb7c97a6919e2cf46b> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
+<http://data.duraark.eu/ifcspffile_1a81c5fecbac60fb7c97a6919e2cf46b> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/ifcspffile_37fcf414b099bfd31a0fd94ce23eefed> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_37fcf414b099bfd31a0fd94ce23eefed> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
+<http://data.duraark.eu/ifcspffile_37fcf414b099bfd31a0fd94ce23eefed> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/ifcspffile_e7b59948cb8dbfa4429674e5cc1290f4> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_e7b59948cb8dbfa4429674e5cc1290f4> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
+<http://data.duraark.eu/ifcspffile_e7b59948cb8dbfa4429674e5cc1290f4> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/addressRegion> "Lyngby-Taarbæk Kommune" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/architect> "Christensen & Co" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/buildingArea> "4.600 m2" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/completionDate> "2013" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/cost> "14,5 million USD" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/description> "Part of a 0.5 billion USD upgrade of the campus" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/floorCount> "3" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_04766d5cc0ed098085a1e4f18495f49b" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_1a81c5fecbac60fb7c97a6919e2cf46b" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_37fcf414b099bfd31a0fd94ce23eefed" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_e7b59948cb8dbfa4429674e5cc1290f4" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/location> "In Greater Copenhagen, Kongens Lyngby a suburb to the city of Copenhagen" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/name> "DTU Compute" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Research and education" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/owner> "Technical University of Denmark (DTU)" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "2800" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/postalLocality> "Kgs. Lyngby By, Lundtofte" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/startDate> "2011" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/streetAddress> "Danmarks Tekniske Universitet, Bygning 324" .
+<http://data.duraark.eu/e57file_005a0badfdb6d03d7e1aefcc0de219d2> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_005a0badfdb6d03d7e1aefcc0de219d2> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_005a0badfdb6d03d7e1aefcc0de219d2> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_005a0badfdb6d03d7e1aefcc0de219d2> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_005a0badfdb6d03d7e1aefcc0de219d2> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_005a0badfdb6d03d7e1aefcc0de219d2> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_138cdb984119dfc2885e74f78d58f5f0> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_138cdb984119dfc2885e74f78d58f5f0> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_138cdb984119dfc2885e74f78d58f5f0> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_138cdb984119dfc2885e74f78d58f5f0> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_138cdb984119dfc2885e74f78d58f5f0> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_138cdb984119dfc2885e74f78d58f5f0> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_2a6791e91d57558de5ef7a09a9ae4fe6> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_2a6791e91d57558de5ef7a09a9ae4fe6> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_2a6791e91d57558de5ef7a09a9ae4fe6> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_2a6791e91d57558de5ef7a09a9ae4fe6> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_2a6791e91d57558de5ef7a09a9ae4fe6> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_2a6791e91d57558de5ef7a09a9ae4fe6> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_33987ab69d927d9e51a8468378a7c98d> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_33987ab69d927d9e51a8468378a7c98d> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_33987ab69d927d9e51a8468378a7c98d> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_33987ab69d927d9e51a8468378a7c98d> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_33987ab69d927d9e51a8468378a7c98d> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_33987ab69d927d9e51a8468378a7c98d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_4024e79c07dd5111e81259fc29c08226> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_4024e79c07dd5111e81259fc29c08226> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_4024e79c07dd5111e81259fc29c08226> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_4024e79c07dd5111e81259fc29c08226> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_4024e79c07dd5111e81259fc29c08226> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_4024e79c07dd5111e81259fc29c08226> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_559a6f1d63c6b6918d7278a68d66ef20> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_559a6f1d63c6b6918d7278a68d66ef20> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_559a6f1d63c6b6918d7278a68d66ef20> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_559a6f1d63c6b6918d7278a68d66ef20> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_559a6f1d63c6b6918d7278a68d66ef20> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_559a6f1d63c6b6918d7278a68d66ef20> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_56e9e0360dc4bc9bb82c9821739e48db> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_56e9e0360dc4bc9bb82c9821739e48db> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_56e9e0360dc4bc9bb82c9821739e48db> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_56e9e0360dc4bc9bb82c9821739e48db> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_56e9e0360dc4bc9bb82c9821739e48db> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_56e9e0360dc4bc9bb82c9821739e48db> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_57eab7b65d5dfbfc960ebec3700346b1> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_57eab7b65d5dfbfc960ebec3700346b1> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_57eab7b65d5dfbfc960ebec3700346b1> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_57eab7b65d5dfbfc960ebec3700346b1> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_57eab7b65d5dfbfc960ebec3700346b1> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_57eab7b65d5dfbfc960ebec3700346b1> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_5bc8fa0746d1f632c1e7b048b4222b1c> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_5bc8fa0746d1f632c1e7b048b4222b1c> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_5bc8fa0746d1f632c1e7b048b4222b1c> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_5bc8fa0746d1f632c1e7b048b4222b1c> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_5bc8fa0746d1f632c1e7b048b4222b1c> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_5bc8fa0746d1f632c1e7b048b4222b1c> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_6b8f60017b17cde8619593b0cd007a19> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_6b8f60017b17cde8619593b0cd007a19> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_6b8f60017b17cde8619593b0cd007a19> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_6b8f60017b17cde8619593b0cd007a19> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_6b8f60017b17cde8619593b0cd007a19> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_6b8f60017b17cde8619593b0cd007a19> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_6c46f2efea013f466673a47b12a6b8f4> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_6c46f2efea013f466673a47b12a6b8f4> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_6c46f2efea013f466673a47b12a6b8f4> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_6c46f2efea013f466673a47b12a6b8f4> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_6c46f2efea013f466673a47b12a6b8f4> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_6c46f2efea013f466673a47b12a6b8f4> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_78985506635dd797626750937c951035> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_78985506635dd797626750937c951035> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_78985506635dd797626750937c951035> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_78985506635dd797626750937c951035> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_78985506635dd797626750937c951035> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_78985506635dd797626750937c951035> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_7c0a54f49d7dd738939d581badd69241> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_7c0a54f49d7dd738939d581badd69241> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_7c0a54f49d7dd738939d581badd69241> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_7c0a54f49d7dd738939d581badd69241> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_7c0a54f49d7dd738939d581badd69241> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_7c0a54f49d7dd738939d581badd69241> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_82846ebdc78564f8c600f1c5bf12b955> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_82846ebdc78564f8c600f1c5bf12b955> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_82846ebdc78564f8c600f1c5bf12b955> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_82846ebdc78564f8c600f1c5bf12b955> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_82846ebdc78564f8c600f1c5bf12b955> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_82846ebdc78564f8c600f1c5bf12b955> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_86fbab353c7a9a17a022755590543b57> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_86fbab353c7a9a17a022755590543b57> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_86fbab353c7a9a17a022755590543b57> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_86fbab353c7a9a17a022755590543b57> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_86fbab353c7a9a17a022755590543b57> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_86fbab353c7a9a17a022755590543b57> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_8cfa6b6e377044ae02e41a4ae48d2eb0> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_8cfa6b6e377044ae02e41a4ae48d2eb0> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_8cfa6b6e377044ae02e41a4ae48d2eb0> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_8cfa6b6e377044ae02e41a4ae48d2eb0> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_8cfa6b6e377044ae02e41a4ae48d2eb0> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_8cfa6b6e377044ae02e41a4ae48d2eb0> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_8e47991f0440bc2fd2277e7196176be0> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_8e47991f0440bc2fd2277e7196176be0> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_8e47991f0440bc2fd2277e7196176be0> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_8e47991f0440bc2fd2277e7196176be0> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_8e47991f0440bc2fd2277e7196176be0> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_8e47991f0440bc2fd2277e7196176be0> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_92b4613dcda17a030af0211f695e8b3d> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_92b4613dcda17a030af0211f695e8b3d> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_92b4613dcda17a030af0211f695e8b3d> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_92b4613dcda17a030af0211f695e8b3d> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_92b4613dcda17a030af0211f695e8b3d> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_92b4613dcda17a030af0211f695e8b3d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_a7e519b548c4b9b3397b6e297493b7c9> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_a7e519b548c4b9b3397b6e297493b7c9> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_a7e519b548c4b9b3397b6e297493b7c9> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_a7e519b548c4b9b3397b6e297493b7c9> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_a7e519b548c4b9b3397b6e297493b7c9> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_a7e519b548c4b9b3397b6e297493b7c9> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_b08dddb703a3b512fb5567b2dadd86ce> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_b08dddb703a3b512fb5567b2dadd86ce> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_b08dddb703a3b512fb5567b2dadd86ce> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_b08dddb703a3b512fb5567b2dadd86ce> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_b08dddb703a3b512fb5567b2dadd86ce> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_b08dddb703a3b512fb5567b2dadd86ce> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_c14ad63e83ec2ddd65a89fe75bc2bccb> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_c14ad63e83ec2ddd65a89fe75bc2bccb> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_c14ad63e83ec2ddd65a89fe75bc2bccb> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_c14ad63e83ec2ddd65a89fe75bc2bccb> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_c14ad63e83ec2ddd65a89fe75bc2bccb> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_c14ad63e83ec2ddd65a89fe75bc2bccb> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_cd3a6fdb289855cae0644d57066fca52> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_cd3a6fdb289855cae0644d57066fca52> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_cd3a6fdb289855cae0644d57066fca52> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_cd3a6fdb289855cae0644d57066fca52> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_cd3a6fdb289855cae0644d57066fca52> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_cd3a6fdb289855cae0644d57066fca52> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_d261b60a774619cbd0bd57914aed6286> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_d261b60a774619cbd0bd57914aed6286> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_d261b60a774619cbd0bd57914aed6286> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_d261b60a774619cbd0bd57914aed6286> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_d261b60a774619cbd0bd57914aed6286> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_d261b60a774619cbd0bd57914aed6286> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_ea31dbed9ef485dff7371f53328e66ad> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_ea31dbed9ef485dff7371f53328e66ad> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_ea31dbed9ef485dff7371f53328e66ad> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_ea31dbed9ef485dff7371f53328e66ad> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_ea31dbed9ef485dff7371f53328e66ad> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_ea31dbed9ef485dff7371f53328e66ad> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_ec70e06e5e7bcc0a6eaf9a6d8e2486cd> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_ec70e06e5e7bcc0a6eaf9a6d8e2486cd> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_ec70e06e5e7bcc0a6eaf9a6d8e2486cd> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_ec70e06e5e7bcc0a6eaf9a6d8e2486cd> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_ec70e06e5e7bcc0a6eaf9a6d8e2486cd> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_ec70e06e5e7bcc0a6eaf9a6d8e2486cd> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_ee7f9495f6d10dea13a1a3e2442a9956> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/e57file_ee7f9495f6d10dea13a1a3e2442a9956> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_ee7f9495f6d10dea13a1a3e2442a9956> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_ee7f9495f6d10dea13a1a3e2442a9956> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_ee7f9495f6d10dea13a1a3e2442a9956> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/e57file_ee7f9495f6d10dea13a1a3e2442a9956> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_52a73d8ab74c50274e15eab8032b42f8> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/ifcspffile_52a73d8ab74c50274e15eab8032b42f8> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_52a73d8ab74c50274e15eab8032b42f8> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/ifcspffile_52a73d8ab74c50274e15eab8032b42f8> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/ifcspffile_52a73d8ab74c50274e15eab8032b42f8> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/ifcspffile_52a73d8ab74c50274e15eab8032b42f8> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_7506554ca037f00867a017f0576fab49> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/ifcspffile_7506554ca037f00867a017f0576fab49> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_7506554ca037f00867a017f0576fab49> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/ifcspffile_7506554ca037f00867a017f0576fab49> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/ifcspffile_7506554ca037f00867a017f0576fab49> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/ifcspffile_7506554ca037f00867a017f0576fab49> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_b823f058fd930dbe92fe790ecdadb309> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/ifcspffile_b823f058fd930dbe92fe790ecdadb309> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_b823f058fd930dbe92fe790ecdadb309> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/ifcspffile_b823f058fd930dbe92fe790ecdadb309> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/ifcspffile_b823f058fd930dbe92fe790ecdadb309> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/ifcspffile_b823f058fd930dbe92fe790ecdadb309> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_bbd20af0dbb9cce66db3b29e784bb123> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/ifcspffile_bbd20af0dbb9cce66db3b29e784bb123> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_bbd20af0dbb9cce66db3b29e784bb123> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/ifcspffile_bbd20af0dbb9cce66db3b29e784bb123> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/ifcspffile_bbd20af0dbb9cce66db3b29e784bb123> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/ifcspffile_bbd20af0dbb9cce66db3b29e784bb123> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_c60c1f55dff56c06b87e030e70e4ec52> <http://data.duraark.eu/vocab/buildm/creator> "LE34" .
+<http://data.duraark.eu/ifcspffile_c60c1f55dff56c06b87e030e70e4ec52> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_c60c1f55dff56c06b87e030e70e4ec52> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/ifcspffile_c60c1f55dff56c06b87e030e70e4ec52> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/ifcspffile_c60c1f55dff56c06b87e030e70e4ec52> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441" .
+<http://data.duraark.eu/ifcspffile_c60c1f55dff56c06b87e030e70e4ec52> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/addressRegion> "København V" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/architect> "Wilhelm Klein" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Historicism" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/buildingArea> "1695 sqm in ground floor" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/completionDate> "1901" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/description> "The Ny Carlsberg Brewhouse was built by Carl Jacobsen as the new brewhouse of his Ny Carlsberg Brewery which he had founded after a conflict with his father, Carlsberg-founder J. C. Jacobsen." .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/floorCount> "6" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_005a0badfdb6d03d7e1aefcc0de219d2" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_138cdb984119dfc2885e74f78d58f5f0" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_2a6791e91d57558de5ef7a09a9ae4fe6" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_33987ab69d927d9e51a8468378a7c98d" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_4024e79c07dd5111e81259fc29c08226" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_559a6f1d63c6b6918d7278a68d66ef20" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_56e9e0360dc4bc9bb82c9821739e48db" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_57eab7b65d5dfbfc960ebec3700346b1" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_5bc8fa0746d1f632c1e7b048b4222b1c" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_6b8f60017b17cde8619593b0cd007a19" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_6c46f2efea013f466673a47b12a6b8f4" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_78985506635dd797626750937c951035" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_7c0a54f49d7dd738939d581badd69241" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_82846ebdc78564f8c600f1c5bf12b955" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_86fbab353c7a9a17a022755590543b57" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_8cfa6b6e377044ae02e41a4ae48d2eb0" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_8e47991f0440bc2fd2277e7196176be0" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_92b4613dcda17a030af0211f695e8b3d" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_a7e519b548c4b9b3397b6e297493b7c9" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_b08dddb703a3b512fb5567b2dadd86ce" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_c14ad63e83ec2ddd65a89fe75bc2bccb" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_cd3a6fdb289855cae0644d57066fca52" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_d261b60a774619cbd0bd57914aed6286" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_ea31dbed9ef485dff7371f53328e66ad" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_ec70e06e5e7bcc0a6eaf9a6d8e2486cd" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_ee7f9495f6d10dea13a1a3e2442a9956" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_52a73d8ab74c50274e15eab8032b42f8" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_7506554ca037f00867a017f0576fab49" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_b823f058fd930dbe92fe790ecdadb309" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_bbd20af0dbb9cce66db3b29e784bb123" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_c60c1f55dff56c06b87e030e70e4ec52" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/location> "In the Carlsberg district of Copenhagen, Denmark, on the border between Vesterbro and Valby." .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/modificationDetails> "Stripped of its inventory and most of its furnishings to prepare it for other use" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/name> "Ny Carlsberg Brewhouse" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/owner> "Carlsberg A/S" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1799" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/postalLocality> "Copenhagen" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "2011" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_3ee982bc-f66e-4361-b0a4-ea8e61673441> <http://data.duraark.eu/vocab/buildm/streetAddress> "Ny Carlsberg Vej 130" .
+<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/description> "Indoor scans: 3rd survey in a serie of three, register interior spacial configuration prior to reconfiguration by removal of walls." .
+<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/event> "Test and evaluate automated rebuilding of BIM models from point clouds" .
+<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Byg72-ScanSeptember2015/CITA_Byg72_3rd_Scan_09-2015.e57" .
+<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/hasType> "Scans" .
+<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9" .
+<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/architect> "Ferdinand Meldahl" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Nordic Classicism" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/buildingArea> "2022" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/completionDate> "1883" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/description> "Built in coherence with the original buildings of the Navy's naval dockyard, naval base, and the harbour magazines from 1766-72. Later Meldahls smithery from 1861. Refurbished into an Architecture School 1994-96." .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/location> "Located in the harbour on the Holmen island, on axis from the Royal Palace Amalienborg on the other side of the harbour. More recently neighbouring the new opera house." .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/modificationDetails> "The protected buildings (magazines, smithery etc.) was restored and converted into classrooms, auditoriums, multi -room activities, exhibitions, special institutes, research, study offices, workshops and administration." .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/name> "The Royal Danish Academy of Fine Arts\r\nSchools of Architecture, Bygning 72" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/owner> "State" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1435" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/postalLocality> "Copenhagen" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1994" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/streetAddress> "Philip de Langes Allé 11" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/dateCreated> "20151217" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/description> "Interiror survey of 1 floor open office landscape. Building under construction, interior installations & facade." .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/format> "E57" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/dateCreated> "20151217" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/description> "Interiror survey of 1 floor open office landscape. Building under construction, interior installations & facade." .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/format> "E57" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/addressRegion> "SCANIA, Greater Copenhagen" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/architect> "FOJAB arkitekter" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/buildingArea> "6200 m2" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/completionDate> "2015" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/description> "The building is connected to the underlying parking garage and connects to every other floor . There will be retail space on the ground floor and a passage through the neighborhood ." .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/floorCount> "7" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/location> "In the rapidly expanding Hyllie FOJAB architects have been commissioned to plan and design a new office building at the station square . Hyllie is the first station when crossing Øresundsbridge from Denmark to Sweden with train." .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/name> "Isblocket" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Office" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/owner> "Otto Holding Vagnslidret 1 AB" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "215 32" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/postalLocality> "MALMØ" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/startDate> "2014" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/streetAddress> "Arenagatan 10" .
+<http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/addressRegion> "Lyngby-Taarbæk Kommune" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/architect> "COO - Christensen & Co" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/buildingArea> "2071" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/completionDate> "2013" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/contributor> "ALECTIA" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/cost> "8.850.000 USD" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/description> "A green social study environment designed with a significant flexible architectural identit" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/location> "In Greater Copenhagen, Kongens Lyngby a suburb to the city of Copenhagen." .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/name> "DTU - Institute Of Architectural Engineering - Building 127" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/owner> "Technical University of Denmark (DTU)" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "2800" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/postalLocality> "Kgs. Lyngby By, Lundtofte" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/startDate> "2012" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/streetAddress> "Anker Engelunds Vej 101A, Bygning 127" .
+<http://data.duraark.eu/e57file_236c445ec32c2171b84ccf2b846aea56> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Diakonissen/CITA_Diakon_GroundFloor.e57" .
+<http://data.duraark.eu/e57file_236c445ec32c2171b84ccf2b846aea56> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9" .
+<http://data.duraark.eu/e57file_236c445ec32c2171b84ccf2b846aea56> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_425d22ffbb459630c585677091373b5c> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Diakonissen/CITA_Diakon_Basement.e57" .
+<http://data.duraark.eu/e57file_425d22ffbb459630c585677091373b5c> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9" .
+<http://data.duraark.eu/e57file_425d22ffbb459630c585677091373b5c> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_63f59937559b9397d784e668d8c80641> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Diakonissen/CITA_Diakon_Staircase.e57" .
+<http://data.duraark.eu/e57file_63f59937559b9397d784e668d8c80641> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9" .
+<http://data.duraark.eu/e57file_63f59937559b9397d784e668d8c80641> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_f33ac0c2e85ba5c513df9647b2e0d457> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Diakonissen/CITA_Diakon_1stFloor.e57" .
+<http://data.duraark.eu/e57file_f33ac0c2e85ba5c513df9647b2e0d457> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9" .
+<http://data.duraark.eu/e57file_f33ac0c2e85ba5c513df9647b2e0d457> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_ffaddcbe95ec06a263d92c9d7b149eff> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Diakonissen/CITA_Diakon_Outside.e57" .
+<http://data.duraark.eu/e57file_ffaddcbe95ec06a263d92c9d7b149eff> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9" .
+<http://data.duraark.eu/e57file_ffaddcbe95ec06a263d92c9d7b149eff> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/addressRegion> "Fredriksberg" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/architect> "Hans Jørgen Holm" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Neo-Gothic style inspired by medieval monasteries and manor houses" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/buildingArea> "30651 sqm2" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/description> "Diakonissestiftelsen was founded in 1866 at the initiative of Crown Princess Louise, consort of the later king Christian IX." .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/floorCount> "7" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_236c445ec32c2171b84ccf2b846aea56" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_425d22ffbb459630c585677091373b5c" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_63f59937559b9397d784e668d8c80641" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_f33ac0c2e85ba5c513df9647b2e0d457" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_ffaddcbe95ec06a263d92c9d7b149eff" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/location> "Located in the heart of Fredriksberg district close to Fredriksberg Have" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/modificationDetails> "A new wing was added to the building" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/name> "Diakonissestiftelsen" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Various social and healthcare-related activities, including a home for the elderly and training of nurses" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/owner> "The Danish Deaconess Community" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "2000" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1922" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/startDate> "1876" .
+<http://data.duraark.eu/physical_asset_77235005-ea90-4ec0-ad29-807a752c1cb9> <http://data.duraark.eu/vocab/buildm/streetAddress> "Peter Bangs Vej 1" .
+<http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a> <http://data.duraark.eu/vocab/buildm/creator> "CITA, ZESO" .
+<http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3" .
+<http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/architect> "ZESO" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/buildingArea> "https://docs.google.com/spreadsheets/d/17MgmWnv2BwIkFTIlq5GM6EhUGSkJVA5O6M5RSAm3CEo/edit#gid=0&vpid=A5" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/completionDate> "ongoing - 2016" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/contributor> "JL Engineering" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/description> "Office in one floor over 3 buildings." .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/floorCount> "1" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/location> "Located in central Copenhagen next to Nytorv square" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/modificationDetails> "Renovation of existing properties by Nygade 1-3 , Knabrostræde 6-8 and Nytorv 5-5A . The properties respectively  worthy of preservation and conservation. Approximately 60 % of the land renovated and converted from commercial to private homes, other areas renovated for professional services and retail stores." .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/name> "Nygade1-3" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "70" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/owner> "NYGADE 1-3 ApS" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1164" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/postalLocality> "Copenhagen" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "2015" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/startDate> "2015" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/streetAddress> "Nygade1-3, Knabrostræde 6-8, Nytorv 5-5A" .
+<http://data.duraark.eu/e57file_0b8353c98f810bf0ed4a7d04b578b827> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_0b8353c98f810bf0ed4a7d04b578b827> <http://data.duraark.eu/vocab/buildm/dateCreated> "20151217" .
+<http://data.duraark.eu/e57file_0b8353c98f810bf0ed4a7d04b578b827> <http://data.duraark.eu/vocab/buildm/description> "2 floors interiror survey of one family row-house. Exterior scan positions the house in it's row." .
+<http://data.duraark.eu/e57file_0b8353c98f810bf0ed4a7d04b578b827> <http://data.duraark.eu/vocab/buildm/event> "Comparison of architects BIM-model and built ground-truth." .
+<http://data.duraark.eu/e57file_0b8353c98f810bf0ed4a7d04b578b827> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_0b8353c98f810bf0ed4a7d04b578b827> <http://data.duraark.eu/vocab/buildm/format> "E57" .
+<http://data.duraark.eu/e57file_0b8353c98f810bf0ed4a7d04b578b827> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
+<http://data.duraark.eu/e57file_0b8353c98f810bf0ed4a7d04b578b827> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3" .
+<http://data.duraark.eu/e57file_0b8353c98f810bf0ed4a7d04b578b827> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_d5f9c71b6d10fed75dac9e9b46d5ea92> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_d5f9c71b6d10fed75dac9e9b46d5ea92> <http://data.duraark.eu/vocab/buildm/dateCreated> "20151217" .
+<http://data.duraark.eu/e57file_d5f9c71b6d10fed75dac9e9b46d5ea92> <http://data.duraark.eu/vocab/buildm/description> "2 floors interiror survey of one family row-house. Exterior scan positions the house in it's row." .
+<http://data.duraark.eu/e57file_d5f9c71b6d10fed75dac9e9b46d5ea92> <http://data.duraark.eu/vocab/buildm/event> "Comparison of architects BIM-model and built ground-truth." .
+<http://data.duraark.eu/e57file_d5f9c71b6d10fed75dac9e9b46d5ea92> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_d5f9c71b6d10fed75dac9e9b46d5ea92> <http://data.duraark.eu/vocab/buildm/format> "E57" .
+<http://data.duraark.eu/e57file_d5f9c71b6d10fed75dac9e9b46d5ea92> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
+<http://data.duraark.eu/e57file_d5f9c71b6d10fed75dac9e9b46d5ea92> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3" .
+<http://data.duraark.eu/e57file_d5f9c71b6d10fed75dac9e9b46d5ea92> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/addressRegion> "SCANIA, Greater Copenhagen" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/architect> "WHITE arkitekter" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/completionDate> "2015" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/description> "Street houses in various sizes with two floors of 144 or 163 square meters to two and a half floor of 170 sqm." .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_0b8353c98f810bf0ed4a7d04b578b827" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_d5f9c71b6d10fed75dac9e9b46d5ea92" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/location> "The expansion of Limhamns Läge done at the former cement factory area where the Skånska Cementaktiebolaget, began to produce and ship out cement already in the latter part of the 1800s. 2000 the company shut down the factory, and the area has been left unused and inaccessible. With the new extension the area is for the first time available to the public." .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/name> "Limhamns Læge Rowhouses" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Family house" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/owner> "NCC, (almost all of the rowhouses are sold)" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "216 12" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/postalLocality> "MALMØ" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/startDate> "2014" .
+<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/streetAddress> "Lokstallsgatan" .
+<http://data.duraark.eu/e57file_3df2616a91a86fed52ec965a15a33b3c> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_3df2616a91a86fed52ec965a15a33b3c> <http://data.duraark.eu/vocab/buildm/description> "Indoor scans: initial survey in a serie of three, register interior spacial configuration prior to reconfiguration by removal of walls." .
+<http://data.duraark.eu/e57file_3df2616a91a86fed52ec965a15a33b3c> <http://data.duraark.eu/vocab/buildm/event> "Test and evaluate automated rebuilding of BIM models from point clouds" .
+<http://data.duraark.eu/e57file_3df2616a91a86fed52ec965a15a33b3c> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/CITA_Byg72_ScanJune2015/CITA_Byg72_1st_Scan.e57" .
+<http://data.duraark.eu/e57file_3df2616a91a86fed52ec965a15a33b3c> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_3df2616a91a86fed52ec965a15a33b3c> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_3df2616a91a86fed52ec965a15a33b3c> <http://data.duraark.eu/vocab/buildm/hasType> "Scans" .
+<http://data.duraark.eu/e57file_3df2616a91a86fed52ec965a15a33b3c> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c" .
+<http://data.duraark.eu/e57file_3df2616a91a86fed52ec965a15a33b3c> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/ifcspffile_92c601ebc71be5865f0a215329ebc4fb> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/ifcspffile_92c601ebc71be5865f0a215329ebc4fb> <http://data.duraark.eu/vocab/buildm/description> "Indoor scans: initial survey in a serie of three, register interior spacial configuration prior to reconfiguration by removal of walls." .
+<http://data.duraark.eu/ifcspffile_92c601ebc71be5865f0a215329ebc4fb> <http://data.duraark.eu/vocab/buildm/event> "Test and evaluate automated rebuilding of BIM models from point clouds" .
+<http://data.duraark.eu/ifcspffile_92c601ebc71be5865f0a215329ebc4fb> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/CITA_Byg72_ScanJune2015/Byg72_BasedOn_1st_Scan_Alternative.ifc" .
+<http://data.duraark.eu/ifcspffile_92c601ebc71be5865f0a215329ebc4fb> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/ifcspffile_92c601ebc71be5865f0a215329ebc4fb> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/ifcspffile_92c601ebc71be5865f0a215329ebc4fb> <http://data.duraark.eu/vocab/buildm/hasType> "Scans" .
+<http://data.duraark.eu/ifcspffile_92c601ebc71be5865f0a215329ebc4fb> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c" .
+<http://data.duraark.eu/ifcspffile_92c601ebc71be5865f0a215329ebc4fb> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/architect> "Ferdinand Meldahl" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Nordic Classicism" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/buildingArea> "2022" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/completionDate> "1883" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/description> "Built in coherence with the original buildings of the Navy's naval dockyard, naval base, and the harbour magazines from 1766-72. Later Meldahls smithery from 1861. Refurbished into an Architecture School 1994-96." .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_3df2616a91a86fed52ec965a15a33b3c" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_92c601ebc71be5865f0a215329ebc4fb" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/location> "Located in the harbour on the Holmen island, on axis from the Royal Palace Amalienborg on the other side of the harbour. More recently neighbouring the new opera house." .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/modificationDetails> "The protected buildings (magazines, smithery etc.) was restored and converted into classrooms, auditoriums, multi -room activities, exhibitions, special institutes, research, study offices, workshops and administration." .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/name> "The Royal Danish Academy of Fine Arts\nSchools of Architecture, Bygning 72" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/owner> "State" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1435" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/postalLocality> "Copenhagen" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1994" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c> <http://data.duraark.eu/vocab/buildm/streetAddress> "Philip de Langes Allé 11" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Kronborg/CITA_Kronborg.e57" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/addressRegion> "Helsingør" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/architect> "Flemings Hans Hendrik van Paesschen and Anthonis van Obbergen" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Renaissance" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/description> "Kronborg is one of the most important Renaissance castles in Northern Europe. Immortalized as Elsinore in William Shakespeare's play Hamlet.  Part of UNESCO's World Heritage Sites list." .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/location> "The castle is situated on the extreme northeastern tip of the island of Zealand at the narrowest point of the Øresund, the sound between Denmark and Sweden." .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/modificationDetails> "First King Frederick II had the medieval fortress transformed into a Renaissance castle. Then, the castle ceased to be a royal residence and was converted into barracks for the army. Finally, the army left the castle, and after a thorough renovation it was opened to the public." .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/name> "Kronborg Castle" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Tourism" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/owner> "The Danish State" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "3000" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/postalLocality> "Helsingør" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1574, 1785 and 1923" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/startDate> "1420s" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/streetAddress> "Kronborg 2C" .
+<http://data.duraark.eu/e57file_84b9acd41dbe9146b3fdaa948f36768a> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_UMTS_Exhibition/CITA_UMTS_Exhibition.e57" .
+<http://data.duraark.eu/e57file_84b9acd41dbe9146b3fdaa948f36768a> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d" .
+<http://data.duraark.eu/e57file_84b9acd41dbe9146b3fdaa948f36768a> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_84b9acd41dbe9146b3fdaa948f36768a" .
+<http://data.duraark.eu/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d> <http://data.duraark.eu/vocab/buildm/name> "The Royal Danish Academy of Fine Arts\r\nSchools of Architecture, Design and Conservation" .
+<http://data.duraark.eu/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/description> "Capture and describe spacial dimensions and prominent arrival: courtyard/entrance/lobby/garden. Outdoor-Indoor-Outdoor scans." .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/event> "Planning and preparation of erection of two installations. One outdoor, courtyard infront of building or garden. And one indoor entrance/lobby. Visualization." .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_DesignMuseum/DesignMuseum_Full.e57" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/hasType> "Scans" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/architect> "Nicolai Eigtved og Lauritz de Thurah Ivar Bentsen og Kaare Klint, 1920's" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Rococo" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/buildingArea> "5453" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/completionDate> "1757" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/constructionTime> "2000" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/description> "Initially King Frederiks Hospital. Built under Frederik V between 1752-57" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/location> "Located in the old part of the city, in close proximity to the Royal Palace Amalienborg, it's street being of great importance to the old city axis. Grandiose and impressive with magnificent buildings, mansions, churches and squares." .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/modificationDetails> "The hospital was converted into a museum. Some of the most progressive Danish architects Ivar Bentsen and Thorkild Henningsen was responsible for the design of the buildings. Each room was decorated by architect Kaare Klint, while the lighting was the newly developed PH - lamps designed by Poul Henningsen ( The museum was the first Danish museum with electric lighting )" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/name> "Design Museum Denmark" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/owner> "DesignMuseum Danmark" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1260" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/postalLocality> "Copenhagen" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1923" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/startDate> "1752" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/streetAddress> "Bredgade 68" .
+<http://data.duraark.eu/e57file_f6dccece4fa433c575f29115e077ab7e> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_f6dccece4fa433c575f29115e077ab7e> <http://data.duraark.eu/vocab/buildm/description> "Indoor scans: 2nd survey in a serie of three, register interior spacial configuration prior to reconfiguration by removal of walls." .
+<http://data.duraark.eu/e57file_f6dccece4fa433c575f29115e077ab7e> <http://data.duraark.eu/vocab/buildm/event> "Test and evaluate automated rebuilding of BIM models from point clouds" .
+<http://data.duraark.eu/e57file_f6dccece4fa433c575f29115e077ab7e> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Byg72-ScanAugust2015/CITA_Byg72_2nd_Scan.e57" .
+<http://data.duraark.eu/e57file_f6dccece4fa433c575f29115e077ab7e> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_f6dccece4fa433c575f29115e077ab7e> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_f6dccece4fa433c575f29115e077ab7e> <http://data.duraark.eu/vocab/buildm/hasType> "Scans" .
+<http://data.duraark.eu/e57file_f6dccece4fa433c575f29115e077ab7e> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d" .
+<http://data.duraark.eu/e57file_f6dccece4fa433c575f29115e077ab7e> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/architect> "Ferdinand Meldahl" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Nordic Classicism" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/buildingArea> "2022" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/completionDate> "1883" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/description> "Built in coherence with the original buildings of the Navy's naval dockyard, naval base, and the harbour magazines from 1766-72. Later Meldahls smithery from 1861. Refurbished into an Architecture School 1994-96." .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_f6dccece4fa433c575f29115e077ab7e" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/location> "Located in the harbour on the Holmen island, on axis from the Royal Palace Amalienborg on the other side of the harbour. More recently neighbouring the new opera house." .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/modificationDetails> "The protected buildings (magazines, smithery etc.) was restored and converted into classrooms, auditoriums, multi -room activities, exhibitions, special institutes, research, study offices, workshops and administration." .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/name> "The Royal Danish Academy of Fine Arts\nSchools of Architecture, Bygning 72" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/owner> "State" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1435" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/postalLocality> "Copenhagen" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1994" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/streetAddress> "Philip de Langes Allé 11" .
+<http://data.duraark.eu/ifcspffile_fb43c6806c570f8bf04c2e214f904df9> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_fb43c6806c570f8bf04c2e214f904df9> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8" .
+<http://data.duraark.eu/ifcspffile_fb43c6806c570f8bf04c2e214f904df9> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/addressRegion> "Lyngby-Taarbæk Kommune" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/buildingArea> "7.000 m2" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/description> "Part of the 2nd (2/4) complex on campus that also includes biology and a sport area" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_fb43c6806c570f8bf04c2e214f904df9" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/location> "In Greater Copenhagen, Kongens Lyngby a suburb to the city of Copenhagen" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/name> "DTU Chemistry" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Chemistry laboratories" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/owner> "Technical University of Denmark (DTU)" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "2800" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/postalLocality> "Kgs. Lyngby By, Lundtofte" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/streetAddress> "Danmarks Tekniske Universitet, Bygning 204" .
+<http://data.duraark.eu/e57file_06175d07424b72b269067ae1ced8f262> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_06175d07424b72b269067ae1ced8f262> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-016-Res1-4-Q1x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_06175d07424b72b269067ae1ced8f262> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_06175d07424b72b269067ae1ced8f262> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_06175d07424b72b269067ae1ced8f262> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_06175d07424b72b269067ae1ced8f262> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_06175d07424b72b269067ae1ced8f262> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_09e4d0cde7e0511550e0e45ad90ec31d> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_09e4d0cde7e0511550e0e45ad90ec31d> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_ScanPrecision_004-Res1-4-Qua6x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_09e4d0cde7e0511550e0e45ad90ec31d> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_09e4d0cde7e0511550e0e45ad90ec31d> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_09e4d0cde7e0511550e0e45ad90ec31d> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_09e4d0cde7e0511550e0e45ad90ec31d> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_09e4d0cde7e0511550e0e45ad90ec31d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_0def3bb4418a39fad01604f41f74ef18> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_0def3bb4418a39fad01604f41f74ef18> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-009-Res1-20-Q4x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_0def3bb4418a39fad01604f41f74ef18> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_0def3bb4418a39fad01604f41f74ef18> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_0def3bb4418a39fad01604f41f74ef18> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_0def3bb4418a39fad01604f41f74ef18> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_0def3bb4418a39fad01604f41f74ef18> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_113e65ba1e9fb46e2aca4862dc38ccfe> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_113e65ba1e9fb46e2aca4862dc38ccfe> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_ScanPrecision_000-Res1-5-Qua3x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_113e65ba1e9fb46e2aca4862dc38ccfe> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_113e65ba1e9fb46e2aca4862dc38ccfe> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_113e65ba1e9fb46e2aca4862dc38ccfe> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_113e65ba1e9fb46e2aca4862dc38ccfe> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_113e65ba1e9fb46e2aca4862dc38ccfe> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_13688a3f90608ea043f11d719468137a> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_13688a3f90608ea043f11d719468137a> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_ScanPrecision_003-Res1-4-Qua4x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_13688a3f90608ea043f11d719468137a> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_13688a3f90608ea043f11d719468137a> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_13688a3f90608ea043f11d719468137a> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_13688a3f90608ea043f11d719468137a> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_13688a3f90608ea043f11d719468137a> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_1e068299673e56922201cef59ae14631> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_1e068299673e56922201cef59ae14631> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-005-Res1-5-Q2x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_1e068299673e56922201cef59ae14631> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_1e068299673e56922201cef59ae14631> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_1e068299673e56922201cef59ae14631> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_1e068299673e56922201cef59ae14631> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_1e068299673e56922201cef59ae14631> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_2ba491d30caa3c626ba78ec56f2286e5> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_2ba491d30caa3c626ba78ec56f2286e5> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_QualityOfPlanning-Better_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_2ba491d30caa3c626ba78ec56f2286e5> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_2ba491d30caa3c626ba78ec56f2286e5> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_2ba491d30caa3c626ba78ec56f2286e5> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_2ba491d30caa3c626ba78ec56f2286e5> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_2ba491d30caa3c626ba78ec56f2286e5> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_35d7702c736e7380a5f2598189f695e4> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_35d7702c736e7380a5f2598189f695e4> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_ScanPrecision_002-Res1-2-Qua3x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_35d7702c736e7380a5f2598189f695e4> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_35d7702c736e7380a5f2598189f695e4> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_35d7702c736e7380a5f2598189f695e4> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_35d7702c736e7380a5f2598189f695e4> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_35d7702c736e7380a5f2598189f695e4> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_4ff937c830b8a39d88d5a12b0430239f> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_4ff937c830b8a39d88d5a12b0430239f> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_QualityOfScan-Cleanness-StrayPoints3-0-002-50_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_4ff937c830b8a39d88d5a12b0430239f> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_4ff937c830b8a39d88d5a12b0430239f> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_4ff937c830b8a39d88d5a12b0430239f> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_4ff937c830b8a39d88d5a12b0430239f> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_4ff937c830b8a39d88d5a12b0430239f> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_611bdd14f8244da0bde9f3e11dfc061d> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_611bdd14f8244da0bde9f3e11dfc061d> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-011-Res1-20-Q8x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_611bdd14f8244da0bde9f3e11dfc061d> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_611bdd14f8244da0bde9f3e11dfc061d> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_611bdd14f8244da0bde9f3e11dfc061d> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_611bdd14f8244da0bde9f3e11dfc061d> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_611bdd14f8244da0bde9f3e11dfc061d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_70bbb639187a95f9c216ccb19d25b5cb> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_70bbb639187a95f9c216ccb19d25b5cb> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_ReferenceScans_QualityOfPlanning-Poor_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_70bbb639187a95f9c216ccb19d25b5cb> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_70bbb639187a95f9c216ccb19d25b5cb> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_70bbb639187a95f9c216ccb19d25b5cb> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_70bbb639187a95f9c216ccb19d25b5cb> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_70bbb639187a95f9c216ccb19d25b5cb> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_71fb10dafdaea8110ab53f872dd48aba> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_71fb10dafdaea8110ab53f872dd48aba> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_QualityOfScan-Cleanness-StandardFilters-DistanceBased_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_71fb10dafdaea8110ab53f872dd48aba> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_71fb10dafdaea8110ab53f872dd48aba> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_71fb10dafdaea8110ab53f872dd48aba> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_71fb10dafdaea8110ab53f872dd48aba> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_71fb10dafdaea8110ab53f872dd48aba> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_7a67fc20a00118bebdb406d91763fccd> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_7a67fc20a00118bebdb406d91763fccd> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-012-Res1-16-Q3x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_7a67fc20a00118bebdb406d91763fccd> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_7a67fc20a00118bebdb406d91763fccd> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_7a67fc20a00118bebdb406d91763fccd> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_7a67fc20a00118bebdb406d91763fccd> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_7a67fc20a00118bebdb406d91763fccd> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_827bceba2ffa62d2b62dc119ff712e8b> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_827bceba2ffa62d2b62dc119ff712e8b> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_QualityOfScan-Cleanness-DarkPoints300_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_827bceba2ffa62d2b62dc119ff712e8b> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_827bceba2ffa62d2b62dc119ff712e8b> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_827bceba2ffa62d2b62dc119ff712e8b> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_827bceba2ffa62d2b62dc119ff712e8b> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_827bceba2ffa62d2b62dc119ff712e8b> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_8331f2d6bf9686f678119c899dd9b541> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_8331f2d6bf9686f678119c899dd9b541> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-015-Res1-5-Q2x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_8331f2d6bf9686f678119c899dd9b541> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_8331f2d6bf9686f678119c899dd9b541> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_8331f2d6bf9686f678119c899dd9b541> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_8331f2d6bf9686f678119c899dd9b541> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_8331f2d6bf9686f678119c899dd9b541> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_86bbeeac332b3bbf61a02723474faaed> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_86bbeeac332b3bbf61a02723474faaed> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_QualityOfScan-Cleanness-StandardFilters_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_86bbeeac332b3bbf61a02723474faaed> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_86bbeeac332b3bbf61a02723474faaed> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_86bbeeac332b3bbf61a02723474faaed> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_86bbeeac332b3bbf61a02723474faaed> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_86bbeeac332b3bbf61a02723474faaed> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_93142c9f1c8242a5a5fc5d90cbb610c5> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_93142c9f1c8242a5a5fc5d90cbb610c5> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-007-Res1-5-Q4x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_93142c9f1c8242a5a5fc5d90cbb610c5> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_93142c9f1c8242a5a5fc5d90cbb610c5> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_93142c9f1c8242a5a5fc5d90cbb610c5> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_93142c9f1c8242a5a5fc5d90cbb610c5> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_93142c9f1c8242a5a5fc5d90cbb610c5> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_974fe2a2730335dd78e7bee9b9058bcd> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_974fe2a2730335dd78e7bee9b9058bcd> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_ScanPrecision_001-Res1-4-Qua3x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_974fe2a2730335dd78e7bee9b9058bcd> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_974fe2a2730335dd78e7bee9b9058bcd> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_974fe2a2730335dd78e7bee9b9058bcd> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_974fe2a2730335dd78e7bee9b9058bcd> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_974fe2a2730335dd78e7bee9b9058bcd> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_a3efe9ab63790394382d8bf13130d751> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_a3efe9ab63790394382d8bf13130d751> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-017-Res1-2-Q1x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_a3efe9ab63790394382d8bf13130d751> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_a3efe9ab63790394382d8bf13130d751> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_a3efe9ab63790394382d8bf13130d751> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_a3efe9ab63790394382d8bf13130d751> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_a3efe9ab63790394382d8bf13130d751> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_a9201ba3c41aad0549af00d0cc217937> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_a9201ba3c41aad0549af00d0cc217937> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-006-Res1-5-Q3x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_a9201ba3c41aad0549af00d0cc217937> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_a9201ba3c41aad0549af00d0cc217937> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_a9201ba3c41aad0549af00d0cc217937> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_a9201ba3c41aad0549af00d0cc217937> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_a9201ba3c41aad0549af00d0cc217937> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_ac65c99d6d5b5e87b1ad7812c5ac3001> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_ac65c99d6d5b5e87b1ad7812c5ac3001> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-014-Res1-8-Q2x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_ac65c99d6d5b5e87b1ad7812c5ac3001> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_ac65c99d6d5b5e87b1ad7812c5ac3001> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_ac65c99d6d5b5e87b1ad7812c5ac3001> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_ac65c99d6d5b5e87b1ad7812c5ac3001> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_ac65c99d6d5b5e87b1ad7812c5ac3001> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_b9113dab50a1da288e03768ebab079ea> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_b9113dab50a1da288e03768ebab079ea> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-008-Res1-5-Q6x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_b9113dab50a1da288e03768ebab079ea> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_b9113dab50a1da288e03768ebab079ea> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_b9113dab50a1da288e03768ebab079ea> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_b9113dab50a1da288e03768ebab079ea> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_b9113dab50a1da288e03768ebab079ea> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_d1e45dfaa7a9e6d2403359be473bca72> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_d1e45dfaa7a9e6d2403359be473bca72> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScanScannerSettings-018-Res1-1-Q1_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_d1e45dfaa7a9e6d2403359be473bca72> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_d1e45dfaa7a9e6d2403359be473bca72> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_d1e45dfaa7a9e6d2403359be473bca72> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_d1e45dfaa7a9e6d2403359be473bca72> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_d1e45dfaa7a9e6d2403359be473bca72> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_e01b3cd3feae64f6f2787e06638257b9> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_e01b3cd3feae64f6f2787e06638257b9> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-010-Res1-20-Q6x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_e01b3cd3feae64f6f2787e06638257b9> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_e01b3cd3feae64f6f2787e06638257b9> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_e01b3cd3feae64f6f2787e06638257b9> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_e01b3cd3feae64f6f2787e06638257b9> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_e01b3cd3feae64f6f2787e06638257b9> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_faf520efaf4045bb34382b6b957788ab> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_faf520efaf4045bb34382b6b957788ab> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-013-Res1-10-Q3x_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_faf520efaf4045bb34382b6b957788ab> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_faf520efaf4045bb34382b6b957788ab> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_faf520efaf4045bb34382b6b957788ab> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_faf520efaf4045bb34382b6b957788ab> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_faf520efaf4045bb34382b6b957788ab> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_ffab258cfbeab371ca575c6c24405d6d> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_ffab258cfbeab371ca575c6c24405d6d> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_QualityOfScan-Cleanness-Unclean_PUBLIC.e57" .
+<http://data.duraark.eu/e57file_ffab258cfbeab371ca575c6c24405d6d> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_ffab258cfbeab371ca575c6c24405d6d> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_ffab258cfbeab371ca575c6c24405d6d> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_ffab258cfbeab371ca575c6c24405d6d> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4" .
+<http://data.duraark.eu/e57file_ffab258cfbeab371ca575c6c24405d6d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/architect> "Ferdinand Meldahl" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Nordic Classicism" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/buildingArea> "3317" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/completionDate> "1861" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/description> "Originally  the Navy's naval dockyard, naval base, and the harbour magazines from 1766-72. Later Meldahls smithery from 1861. Refurbished into an Architecture School 1994-96." .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_06175d07424b72b269067ae1ced8f262" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_09e4d0cde7e0511550e0e45ad90ec31d" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_0def3bb4418a39fad01604f41f74ef18" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_113e65ba1e9fb46e2aca4862dc38ccfe" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_13688a3f90608ea043f11d719468137a" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_1e068299673e56922201cef59ae14631" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_2ba491d30caa3c626ba78ec56f2286e5" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_35d7702c736e7380a5f2598189f695e4" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_4ff937c830b8a39d88d5a12b0430239f" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_611bdd14f8244da0bde9f3e11dfc061d" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_70bbb639187a95f9c216ccb19d25b5cb" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_71fb10dafdaea8110ab53f872dd48aba" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_7a67fc20a00118bebdb406d91763fccd" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_827bceba2ffa62d2b62dc119ff712e8b" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_8331f2d6bf9686f678119c899dd9b541" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_86bbeeac332b3bbf61a02723474faaed" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_93142c9f1c8242a5a5fc5d90cbb610c5" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_974fe2a2730335dd78e7bee9b9058bcd" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_a3efe9ab63790394382d8bf13130d751" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_a9201ba3c41aad0549af00d0cc217937" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_ac65c99d6d5b5e87b1ad7812c5ac3001" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_b9113dab50a1da288e03768ebab079ea" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_d1e45dfaa7a9e6d2403359be473bca72" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_e01b3cd3feae64f6f2787e06638257b9" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_faf520efaf4045bb34382b6b957788ab" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_ffab258cfbeab371ca575c6c24405d6d" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/location> "Located in the harbour on the Holmen island, on axis from the Royal Palace Amalienborg on the other side of the harbour. More recently neighbouring the new opera house." .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/modificationDetails> "The protected buildings (magazines, smithery etc.) was restored and converted into classrooms, auditoriums, multi -room activities, exhibitions, special institutes, research, study offices, workshops and administration." .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/name> "Meldahls Smedie" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "10" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/owner> "State" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1434" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/postalLocality> "Copenhagen" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1994" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/startDate> "1860" .
+<http://data.duraark.eu/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4> <http://data.duraark.eu/vocab/buildm/streetAddress> "Danneskiolds-Samsøes Allé 51" .
+<http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a> <http://data.duraark.eu/vocab/buildm/creator> "Le34" .
+<http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37" .
+<http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10> <http://data.duraark.eu/vocab/buildm/creator> "Le34" .
+<http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37" .
+<http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3> <http://data.duraark.eu/vocab/buildm/creator> "Le34" .
+<http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37" .
+<http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f> <http://data.duraark.eu/vocab/buildm/creator> "Le34" .
+<http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37" .
+<http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b> <http://data.duraark.eu/vocab/buildm/creator> "Le34" .
+<http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37" .
+<http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/architect> "Casper Frederik Harsdorff" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Nordic Classicism" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/buildingArea> "2790" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/completionDate> "1797" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/description> "For the last 20 years it has been an office building. Recently renovated into a large retail space on the street level, and luxuriuous apartments on the other floors." .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/floorCount> "5" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/location> "One of the most prominent addresses across Højbro from the governmental palace Christiansborg." .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/modificationDetails> "For bygningsejeren Barfoed Group har BS Arkitekter lavet en gennemgribende renovering af ejendommen, der nu rummer detail- og restaurant lejemål i stueplan og 20 eksklusive lejelejligheder på de øvrige etager i forskellige størrelser fra ca. 100 m² til ca. 250 m².Den karakteristiske facade fra 1850 med de sammenhængende indfatninger fra kælder til første sal med bueafslutning har fået store vinduespartier og er udvidet til Læderstræde.\nPå stueniveauet er gulvet blevet sænket, så det giver en stor, sammenhængende butik med direkte adgang fra pladsen og gaden. Dog er der indsat et tilbagetrukket plateau en halv-etage over gulvplan, der kan bruges til restauration og events." .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/name> "Hojbro Plads 4" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Real Estate Management" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/owner> "Barfoed Group" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1200" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/postalLocality> "Copenhagen" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "2014" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/startDate> "1796" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/streetAddress> "Højbro Plads 4" .

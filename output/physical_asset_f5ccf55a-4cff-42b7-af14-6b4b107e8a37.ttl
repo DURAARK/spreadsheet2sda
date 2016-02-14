@@ -1,0 +1,53 @@
+<http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a> <http://data.duraark.eu/vocab/buildm/creator> "Le34" .
+<http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37" .
+<http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10> <http://data.duraark.eu/vocab/buildm/creator> "Le34" .
+<http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37" .
+<http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3> <http://data.duraark.eu/vocab/buildm/creator> "Le34" .
+<http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37" .
+<http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f> <http://data.duraark.eu/vocab/buildm/creator> "Le34" .
+<http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37" .
+<http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b> <http://data.duraark.eu/vocab/buildm/creator> "Le34" .
+<http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37" .
+<http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/architect> "Casper Frederik Harsdorff" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Nordic Classicism" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/buildingArea> "2790" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/completionDate> "1797" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/description> "For the last 20 years it has been an office building. Recently renovated into a large retail space on the street level, and luxuriuous apartments on the other floors." .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/floorCount> "5" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_07e4ea9ca1b9a84008854a1c31ab328a" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_ae43a5d142e377eaad3b5aa7d79b2a10" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_c2007c965a0b1683cca4c617ad6cf0f3" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_d3a05d2884c68af02e627c538c3a332f" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_d3aa0404aeeeee856ffa2f235fb1a87b" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/location> "One of the most prominent addresses across Højbro from the governmental palace Christiansborg." .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/modificationDetails> "For bygningsejeren Barfoed Group har BS Arkitekter lavet en gennemgribende renovering af ejendommen, der nu rummer detail- og restaurant lejemål i stueplan og 20 eksklusive lejelejligheder på de øvrige etager i forskellige størrelser fra ca. 100 m² til ca. 250 m².Den karakteristiske facade fra 1850 med de sammenhængende indfatninger fra kælder til første sal med bueafslutning har fået store vinduespartier og er udvidet til Læderstræde.\nPå stueniveauet er gulvet blevet sænket, så det giver en stor, sammenhængende butik med direkte adgang fra pladsen og gaden. Dog er der indsat et tilbagetrukket plateau en halv-etage over gulvplan, der kan bruges til restauration og events." .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/name> "Hojbro Plads 4" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Real Estate Management" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/owner> "Barfoed Group" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1200" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/postalLocality> "Copenhagen" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "2014" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/startDate> "1796" .
+<http://data.duraark.eu/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37> <http://data.duraark.eu/vocab/buildm/streetAddress> "Højbro Plads 4" .

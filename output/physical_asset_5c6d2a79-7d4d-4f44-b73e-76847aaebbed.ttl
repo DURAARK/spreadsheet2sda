@@ -1,0 +1,59 @@
+<http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/addressRegion> "Lyngby-Taarbæk Kommune" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/architect> "COO - Christensen & Co" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/buildingArea> "2071" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/completionDate> "2013" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/contributor> "ALECTIA" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/cost> "8.850.000 USD" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/description> "A green social study environment designed with a significant flexible architectural identit" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_6ef6f4ff0dd0bc211a44953465d9b60e" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_a8d50dfe8f3e0ff7fefb8ffbf95581fa" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_bcb7c38f3be409edcfdd352173e96a52" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_148fd0be66469bdaf4f499fac8e00d58" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_f7755ed021aedb76960a0e5a6032f3ec" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_fa0ca85e70ea858247e67b3d0c0b4e15" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/location> "In Greater Copenhagen, Kongens Lyngby a suburb to the city of Copenhagen." .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/name> "DTU - Institute Of Architectural Engineering - Building 127" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/owner> "Technical University of Denmark (DTU)" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "2800" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/postalLocality> "Kgs. Lyngby By, Lundtofte" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/startDate> "2012" .
+<http://data.duraark.eu/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/streetAddress> "Anker Engelunds Vej 101A, Bygning 127" .

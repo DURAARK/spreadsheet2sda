@@ -1,0 +1,34 @@
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/dateCreated> "20151217" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/description> "Interiror survey of 1 floor open office landscape. Building under construction, interior installations & facade." .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/format> "E57" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d" .
+<http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/dateCreated> "20151217" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/description> "Interiror survey of 1 floor open office landscape. Building under construction, interior installations & facade." .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/format> "E57" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d" .
+<http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/addressRegion> "SCANIA, Greater Copenhagen" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/architect> "FOJAB arkitekter" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/buildingArea> "6200 m2" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/completionDate> "2015" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/description> "The building is connected to the underlying parking garage and connects to every other floor . There will be retail space on the ground floor and a passage through the neighborhood ." .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/floorCount> "7" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_42c67e476076ef5c9d2b93374324807c" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_48e4b26ac776697ce2a7ac7e3760160f" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/location> "In the rapidly expanding Hyllie FOJAB architects have been commissioned to plan and design a new office building at the station square . Hyllie is the first station when crossing Øresundsbridge from Denmark to Sweden with train." .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/name> "Isblocket" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Office" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/owner> "Otto Holding Vagnslidret 1 AB" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "215 32" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/postalLocality> "MALMØ" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/startDate> "2014" .
+<http://data.duraark.eu/physical_asset_58d71eee-dc93-4fd6-ad2a-3c281ff98d8d> <http://data.duraark.eu/vocab/buildm/streetAddress> "Arenagatan 10" .

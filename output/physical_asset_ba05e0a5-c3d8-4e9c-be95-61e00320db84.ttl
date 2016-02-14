@@ -1,0 +1,28 @@
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/description> "Capture and describe spacial dimensions and prominent arrival: courtyard/entrance/lobby/garden. Outdoor-Indoor-Outdoor scans." .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/event> "Planning and preparation of erection of two installations. One outdoor, courtyard infront of building or garden. And one indoor entrance/lobby. Visualization." .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_DesignMuseum/DesignMuseum_Full.e57" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/hasType> "Scans" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84" .
+<http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/architect> "Nicolai Eigtved og Lauritz de Thurah Ivar Bentsen og Kaare Klint, 1920's" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Rococo" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/buildingArea> "5453" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/completionDate> "1757" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/constructionTime> "2000" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/description> "Initially King Frederiks Hospital. Built under Frederik V between 1752-57" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_0db6e52ef1407d2a5c63f2197c712b1d" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/location> "Located in the old part of the city, in close proximity to the Royal Palace Amalienborg, it's street being of great importance to the old city axis. Grandiose and impressive with magnificent buildings, mansions, churches and squares." .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/modificationDetails> "The hospital was converted into a museum. Some of the most progressive Danish architects Ivar Bentsen and Thorkild Henningsen was responsible for the design of the buildings. Each room was decorated by architect Kaare Klint, while the lighting was the newly developed PH - lamps designed by Poul Henningsen ( The museum was the first Danish museum with electric lighting )" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/name> "Design Museum Denmark" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/owner> "DesignMuseum Danmark" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1260" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/postalLocality> "Copenhagen" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1923" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/startDate> "1752" .
+<http://data.duraark.eu/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84> <http://data.duraark.eu/vocab/buildm/streetAddress> "Bredgade 68" .

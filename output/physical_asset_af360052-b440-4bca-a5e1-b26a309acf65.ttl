@@ -1,0 +1,23 @@
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Kronborg/CITA_Kronborg.e57" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65" .
+<http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/addressRegion> "Helsingør" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/architect> "Flemings Hans Hendrik van Paesschen and Anthonis van Obbergen" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Renaissance" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/description> "Kronborg is one of the most important Renaissance castles in Northern Europe. Immortalized as Elsinore in William Shakespeare's play Hamlet.  Part of UNESCO's World Heritage Sites list." .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_62f0dc3b485b36c8ca30b97c67618851" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/location> "The castle is situated on the extreme northeastern tip of the island of Zealand at the narrowest point of the Øresund, the sound between Denmark and Sweden." .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/modificationDetails> "First King Frederick II had the medieval fortress transformed into a Renaissance castle. Then, the castle ceased to be a royal residence and was converted into barracks for the army. Finally, the army left the castle, and after a thorough renovation it was opened to the public." .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/name> "Kronborg Castle" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Tourism" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/owner> "The Danish State" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "3000" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/postalLocality> "Helsingør" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1574, 1785 and 1923" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/startDate> "1420s" .
+<http://data.duraark.eu/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65> <http://data.duraark.eu/vocab/buildm/streetAddress> "Kronborg 2C" .
