@@ -15,8 +15,9 @@ var converter = new Converter({
     paData2buildm: paData2buildm,
     e57Data2buildm: e57Data2buildm
   }),
+  insertIntoSDAS = false,
   cols = ['AA', 'AD', 'AI', 'AJ', 'AK', 'AL', 'AV', 'AZ', 'BA', 'BC', 'BL', 'BM', 'BN', 'BQ', 'BS', 'BT', 'BU', 'BW', 'BZ', 'CD', 'CI'];
-  // cols = ['AV'];
+// cols = ['AV'];
 
 _.forEach(cols, function(col) {
   var paDataset = converter.getPADataFromSheet(col),
@@ -55,7 +56,15 @@ _.forEach(cols, function(col) {
         tmp.push(item);
       });
 
-      converter.writeRDFFile(tmp, paJsonLD.uri);
+      converter.writeRDFFile(tmp, paJsonLD.uri).then(function(rdfFilePath) {
+        if (insertIntoSDAS) {
+          converter.insertIntoSDAS(rdfFilePath).then(function() {
+            console.log('Successfully inserted data into the SDAS');
+          }).catch(function(err) {
+            console.log('ERROR inserting data into the SDAS for: ' + rdfFilePath);
+          });
+        }
+      });
     });
   } else {
     console.log('Skipping bogus data from col: ' + col);
