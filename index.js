@@ -1,47 +1,57 @@
 var metadataFilePath = './data/2016-02-13_metadata.xlsx',
-  desc2buildm = require('./lib/desc2buildm'),
+  paData2buildm = require('./lib/paData2buildm'),
+  e57Data2buildm = require('./lib/e57Data2buildm'),
   Converter = require('./lib/converter'),
   _ = require('underscore'),
   util = require('util');
 
 var converter = new Converter({
     metadataFilePath: metadataFilePath,
-    desc2buildm: desc2buildm
+    sheetName: 'MetaData',
+    paRowStart: '6',
+    paRowEnd: '32',
+    e57RowStart: '48',
+    e57RowEnd: '60',
+    paData2buildm: paData2buildm,
+    e57Data2buildm: e57Data2buildm
   }),
-  // cols = ['AA', 'AD', 'AI', 'AJ', 'AK', 'AL', 'AV', 'AZ', 'BA', 'BC', 'BL', 'BM', 'BN', 'BQ', 'BS', 'BT', 'BU', 'BW', 'BZ', 'CD', 'CI'];
-  cols = ['AA'];
+  cols = ['AA', 'AD', 'AI', 'AJ', 'AK', 'AL', 'AV', 'AZ', 'BA', 'BC', 'BL', 'BM', 'BN', 'BQ', 'BS', 'BT', 'BU', 'BW', 'BZ', 'CD', 'CI'];
+  // cols = ['AV'];
 
 _.forEach(cols, function(col) {
-  var dataset = converter.getDatasetFromSheet('MetaData', col, '6', '32'),
-    name = dataset.name;
+  var paDataset = converter.getPADataFromSheet(col),
+    e57Dataset = converter.getE57DataFromSheet(col),
+    name = paDataset.name;
 
   if (name) {
-    console.log('Processing physical asset: ' + name);
+    console.log('Processing physical asset: %s [row: %s]', name, col);
 
-    var paJsonLD = converter.createPhysicalAssetAsJsonLD(dataset);
+    var paJsonLD = converter.createPhysicalAssetAsJsonLD(paDataset);
 
-    var dosJsonLD = [];
+    var e57sJsonLD = [];
 
-    var basePath = '/tmp/duraark-data' + dataset.fileBaseUrl + '/';
+    var basePath = '/tmp/duraark-data' + paDataset.fileBaseUrl + '/';
 
     converter.getDigitalObjectsUrls(basePath, '/tmp/duraark-data', 'http://duraark.tib.eu').then(function(urls) {
       _.forEach(urls, function(url) {
         // console.log('processing URL: ' + url);
-        var doJsonLD = converter.createDigitalObjectAsJsonLD(url, paJsonLD.uri, dataset.rightsDetails);
+        if (url.split('.').pop().toLowerCase() !== 'zip') {
+          var e57JsonLD = converter.createE57AsJsonLD(url, e57Dataset, paJsonLD.uri, paDataset.rightsDetails);
 
-        if (!paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy']) {
-          paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy'] = [];
+          if (!paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy']) {
+            paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy'] = [];
+          }
+
+          paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy'].push({
+            '@value': e57JsonLD.uri
+          });
+
+          e57sJsonLD.push(e57JsonLD.jsonld);
         }
-
-        paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy'].push({
-          '@value': doJsonLD.uri
-        });
-
-        dosJsonLD.push(doJsonLD.jsonld);
       });
 
       var tmp = [paJsonLD.jsonld];
-      _.forEach(dosJsonLD, function(item) {
+      _.forEach(e57sJsonLD, function(item) {
         tmp.push(item);
       });
 

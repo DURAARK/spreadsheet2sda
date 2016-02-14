@@ -1,0 +1,12 @@
+{
+  "Creator(s)": "creator",
+  "Creation Date": "dateCreated",
+  "File Format": "format",
+  "File Type": "hasType",
+  "File Details": "hasFormatDetails",
+  "General Description": "description",
+  "Provenance Description": "provenance",
+  "License": "license",
+  "Level Of Detail": "levelOfDetail",
+  "Purpose": "event"
+}
