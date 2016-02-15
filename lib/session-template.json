@@ -1,0 +1,26 @@
+{
+  "state": "archived",
+  "label": "Nygade 1001",
+  "address": "Somewhere, Kopenhagen",
+  "description": "Reconstruction",
+  "physicalAssets": [],
+  "digitalObjects": [],
+  "sessionFolder": "/duraark-storage/sessions/nygade_1001-fixed",
+  "files": [
+    {
+      "path": "/duraark-storage/sessions/nygade_1001-fixed/master/Nygade_Scan1001.e57",
+      "type": "e57",
+      "size": 270408704,
+      "directory": false,
+      "atime": "2015-07-30T16:16:10.000Z",
+      "mtime": "2015-07-30T16:16:15.000Z",
+      "ctime": "2015-07-30T16:18:51.000Z",
+      "createdAt": "2015-07-31T14:20:40.384Z",
+      "updatedAt": "2015-08-02T09:00:41.042Z",
+      "id": 8
+    }
+  ],
+  "createdAt": "2016-02-11T22:48:24.118Z",
+  "updatedAt": "2016-02-11T22:48:24.118Z",
+  "id": 5
+}
