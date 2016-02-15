@@ -1,15 +1,15 @@
-<http://data.duraark.eu/ifcspffile_04766d5cc0ed098085a1e4f18495f49b> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
-<http://data.duraark.eu/ifcspffile_04766d5cc0ed098085a1e4f18495f49b> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
-<http://data.duraark.eu/ifcspffile_04766d5cc0ed098085a1e4f18495f49b> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
-<http://data.duraark.eu/ifcspffile_1a81c5fecbac60fb7c97a6919e2cf46b> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
-<http://data.duraark.eu/ifcspffile_1a81c5fecbac60fb7c97a6919e2cf46b> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
-<http://data.duraark.eu/ifcspffile_1a81c5fecbac60fb7c97a6919e2cf46b> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
-<http://data.duraark.eu/ifcspffile_37fcf414b099bfd31a0fd94ce23eefed> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
-<http://data.duraark.eu/ifcspffile_37fcf414b099bfd31a0fd94ce23eefed> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
-<http://data.duraark.eu/ifcspffile_37fcf414b099bfd31a0fd94ce23eefed> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
-<http://data.duraark.eu/ifcspffile_e7b59948cb8dbfa4429674e5cc1290f4> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
-<http://data.duraark.eu/ifcspffile_e7b59948cb8dbfa4429674e5cc1290f4> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
-<http://data.duraark.eu/ifcspffile_e7b59948cb8dbfa4429674e5cc1290f4> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/ifcspffile_7df44337105264132e90a3b11094c0a6> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_7df44337105264132e90a3b11094c0a6> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
+<http://data.duraark.eu/ifcspffile_7df44337105264132e90a3b11094c0a6> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
+<http://data.duraark.eu/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
+<http://data.duraark.eu/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
+<http://data.duraark.eu/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
 <http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/addressRegion> "Lyngby-Taarbæk Kommune" .
 <http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/architect> "Christensen & Co" .
 <http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
@@ -18,10 +18,10 @@
 <http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/cost> "14,5 million USD" .
 <http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/description> "Part of a 0.5 billion USD upgrade of the campus" .
 <http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/floorCount> "3" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_04766d5cc0ed098085a1e4f18495f49b" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_1a81c5fecbac60fb7c97a6919e2cf46b" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_37fcf414b099bfd31a0fd94ce23eefed" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_e7b59948cb8dbfa4429674e5cc1290f4" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_7df44337105264132e90a3b11094c0a6" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19" .
+<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd" .
 <http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/location> "In Greater Copenhagen, Kongens Lyngby a suburb to the city of Copenhagen" .
 <http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/name> "DTU Compute" .
 <http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Research and education" .

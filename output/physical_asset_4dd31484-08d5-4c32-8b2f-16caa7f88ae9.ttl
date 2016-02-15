@@ -1,12 +1,12 @@
-<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
-<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/description> "Indoor scans: 3rd survey in a serie of three, register interior spacial configuration prior to reconfiguration by removal of walls." .
-<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/event> "Test and evaluate automated rebuilding of BIM models from point clouds" .
-<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Byg72-ScanSeptember2015/CITA_Byg72_3rd_Scan_09-2015.e57" .
-<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/format> "e57" .
-<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
-<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/hasType> "Scans" .
-<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9" .
-<http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_e88549a77c34b18176639867aac65753> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
+<http://data.duraark.eu/e57file_e88549a77c34b18176639867aac65753> <http://data.duraark.eu/vocab/buildm/description> "Indoor scans: 3rd survey in a serie of three, register interior spacial configuration prior to reconfiguration by removal of walls." .
+<http://data.duraark.eu/e57file_e88549a77c34b18176639867aac65753> <http://data.duraark.eu/vocab/buildm/event> "Test and evaluate automated rebuilding of BIM models from point clouds" .
+<http://data.duraark.eu/e57file_e88549a77c34b18176639867aac65753> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Byg72-ScanSeptember2015/CITA_Byg72_3rd_Scan_09-2015.e57" .
+<http://data.duraark.eu/e57file_e88549a77c34b18176639867aac65753> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_e88549a77c34b18176639867aac65753> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
+<http://data.duraark.eu/e57file_e88549a77c34b18176639867aac65753> <http://data.duraark.eu/vocab/buildm/hasType> "Scans" .
+<http://data.duraark.eu/e57file_e88549a77c34b18176639867aac65753> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9" .
+<http://data.duraark.eu/e57file_e88549a77c34b18176639867aac65753> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
 <http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
 <http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/architect> "Ferdinand Meldahl" .
 <http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Nordic Classicism" .
@@ -14,7 +14,7 @@
 <http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/completionDate> "1883" .
 <http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/description> "Built in coherence with the original buildings of the Navy's naval dockyard, naval base, and the harbour magazines from 1766-72. Later Meldahls smithery from 1861. Refurbished into an Architecture School 1994-96." .
 <http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
-<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_6a4cae742a2023452388b894a8dcfdc8" .
+<http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_e88549a77c34b18176639867aac65753" .
 <http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/location> "Located in the harbour on the Holmen island, on axis from the Royal Palace Amalienborg on the other side of the harbour. More recently neighbouring the new opera house." .
 <http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/modificationDetails> "The protected buildings (magazines, smithery etc.) was restored and converted into classrooms, auditoriums, multi -room activities, exhibitions, special institutes, research, study offices, workshops and administration." .
 <http://data.duraark.eu/physical_asset_4dd31484-08d5-4c32-8b2f-16caa7f88ae9> <http://data.duraark.eu/vocab/buildm/name> "The Royal Danish Academy of Fine Arts\r\nSchools of Architecture, Bygning 72" .

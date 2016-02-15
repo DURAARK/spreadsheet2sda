@@ -1,9 +1,9 @@
-<http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a> <http://data.duraark.eu/vocab/buildm/creator> "CITA, ZESO" .
-<http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
-<http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a> <http://data.duraark.eu/vocab/buildm/format> "e57" .
-<http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
-<http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3" .
-<http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_1a7fbb71a4e6fd6989c761bff07ef2f5> <http://data.duraark.eu/vocab/buildm/creator> "CITA, ZESO" .
+<http://data.duraark.eu/e57file_1a7fbb71a4e6fd6989c761bff07ef2f5> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_1a7fbb71a4e6fd6989c761bff07ef2f5> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/e57file_1a7fbb71a4e6fd6989c761bff07ef2f5> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/e57file_1a7fbb71a4e6fd6989c761bff07ef2f5> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3" .
+<http://data.duraark.eu/e57file_1a7fbb71a4e6fd6989c761bff07ef2f5> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
 <http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
 <http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/architect> "ZESO" .
 <http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/buildingArea> "https://docs.google.com/spreadsheets/d/17MgmWnv2BwIkFTIlq5GM6EhUGSkJVA5O6M5RSAm3CEo/edit#gid=0&vpid=A5" .
@@ -11,7 +11,7 @@
 <http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/contributor> "JL Engineering" .
 <http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/description> "Office in one floor over 3 buildings." .
 <http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/floorCount> "1" .
-<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_7deb85afe58a3df3969fe879099ab82a" .
+<http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_1a7fbb71a4e6fd6989c761bff07ef2f5" .
 <http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/location> "Located in central Copenhagen next to Nytorv square" .
 <http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/modificationDetails> "Renovation of existing properties by Nygade 1-3 , Knabrostræde 6-8 and Nytorv 5-5A . The properties respectively  worthy of preservation and conservation. Approximately 60 % of the land renovated and converted from commercial to private homes, other areas renovated for professional services and retail stores." .
 <http://data.duraark.eu/physical_asset_781c94a1-c065-47b1-933c-fea02a17bdc3> <http://data.duraark.eu/vocab/buildm/name> "Nygade1-3" .
