@@ -34,11 +34,11 @@ _.forEach(cols, function(col) {
 
     var basePath = '/tmp/duraark-data' + paDataset.fileBaseUrl + '/';
 
-    converter.getDigitalObjectsUrls(basePath, '/tmp/duraark-data', 'http://duraark.tib.eu').then(function(urls) {
-      _.forEach(urls, function(url) {
-        console.log('    adding file: ' + url);
-        if (url.split('.').pop().toLowerCase() !== 'zip') {
-          var e57JsonLD = converter.createE57AsJsonLD(url, e57Dataset, paJsonLD.uri, paDataset.rightsDetails);
+    converter.getDigitalObjectsUrls(basePath).then(function(filePaths) {
+      _.forEach(filePaths, function(filePath) {
+        // console.log('    adding file: ' + filePath);
+        if (filePath.split('.').pop().toLowerCase() !== 'zip') {
+          var e57JsonLD = converter.createE57AsJsonLD(filePath, e57Dataset, paJsonLD.uri, paDataset.rightsDetails, '/tmp/duraark-data'); // FIXXME: javascriptify parameters!
 
           if (!paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy']) {
             paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy'] = [];
@@ -56,8 +56,10 @@ _.forEach(cols, function(col) {
 
       var tmp = [];
       _.forEach(e57sJsonLD, function(item) {
+        delete item.jsonld['@type']; // the SDA does not cope with the @type predicate
         tmp.push(item.jsonld);
       });
+      delete paJsonLD.jsonld['@type']; // the SDA does not cope with the @type predicate
       tmp.push(paJsonLD.jsonld);
 
       converter.writeRDFFile(tmp, paJsonLD.uri).then(function(rdfFilePath) {
