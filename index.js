@@ -13,11 +13,12 @@ var converter = new Converter({
     e57RowStart: '48',
     e57RowEnd: '60',
     paData2buildm: paData2buildm,
-    e57Data2buildm: e57Data2buildm
+    e57Data2buildm: e57Data2buildm,
+    buildmBaseUrl: 'http://data.duraark.eu/vocab/buildm/'
   }),
   insertIntoSDAS = false,
   cols = ['AA', 'AD', 'AI', 'AJ', 'AK', 'AL', 'AV', 'AZ', 'BA', 'BC', 'BL', 'BM', 'BN', 'BQ', 'BS', 'BT', 'BU', 'BW', 'BZ', 'CD', 'CI'];
-// cols = ['AV'];
+  // cols = ['AJ'];
 
 _.forEach(cols, function(col) {
   var paDataset = converter.getPADataFromSheet(col),
@@ -33,11 +34,11 @@ _.forEach(cols, function(col) {
 
     var basePath = '/tmp/duraark-data' + paDataset.fileBaseUrl + '/';
 
-    converter.getDigitalObjectsUrls(basePath, '/tmp/duraark-data', 'http://duraark.tib.eu').then(function(urls) {
-      _.forEach(urls, function(url) {
-        // console.log('processing URL: ' + url);
-        if (url.split('.').pop().toLowerCase() !== 'zip') {
-          var e57JsonLD = converter.createE57AsJsonLD(url, e57Dataset, paJsonLD.uri, paDataset.rightsDetails);
+    converter.getDigitalObjectsUrls(basePath).then(function(filePaths) {
+      _.forEach(filePaths, function(filePath) {
+        // console.log('    adding file: ' + filePath);
+        if (filePath.split('.').pop().toLowerCase() !== 'zip') {
+          var e57JsonLD = converter.createE57AsJsonLD(filePath, e57Dataset, paJsonLD.uri, paDataset.rightsDetails, '/tmp/duraark-data'); // FIXXME: javascriptify parameters!
 
           if (!paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy']) {
             paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy'] = [];
@@ -47,14 +48,19 @@ _.forEach(cols, function(col) {
             '@value': e57JsonLD.uri
           });
 
-          e57sJsonLD.push(e57JsonLD.jsonld);
+          e57sJsonLD.push(e57JsonLD);
         }
       });
 
-      var tmp = [paJsonLD.jsonld];
+      converter.writeWorkbenchUISessionFile(paJsonLD, e57sJsonLD);
+
+      var tmp = [];
       _.forEach(e57sJsonLD, function(item) {
-        tmp.push(item);
+        delete item.jsonld['@type']; // the SDA does not cope with the @type predicate
+        tmp.push(item.jsonld);
       });
+      delete paJsonLD.jsonld['@type']; // the SDA does not cope with the @type predicate
+      tmp.push(paJsonLD.jsonld);
 
       converter.writeRDFFile(tmp, paJsonLD.uri).then(function(rdfFilePath) {
         if (insertIntoSDAS) {
