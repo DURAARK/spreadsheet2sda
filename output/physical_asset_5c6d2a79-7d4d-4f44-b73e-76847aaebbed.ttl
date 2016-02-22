@@ -1,45 +1,45 @@
-<http://data.duraark.eu/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
-<http://data.duraark.eu/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building127_CITA-Sub5x5_PREVIEW.e57" .
-<http://data.duraark.eu/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://data.duraark.eu/vocab/buildm/format> "e57" .
-<http://data.duraark.eu/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
-<http://data.duraark.eu/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
-<http://data.duraark.eu/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
-<http://data.duraark.eu/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
-<http://data.duraark.eu/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
-<http://data.duraark.eu/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building127_CITA-Clean_PREVIEW.e57" .
-<http://data.duraark.eu/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://data.duraark.eu/vocab/buildm/format> "e57" .
-<http://data.duraark.eu/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
-<http://data.duraark.eu/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
-<http://data.duraark.eu/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
-<http://data.duraark.eu/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
-<http://data.duraark.eu/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
-<http://data.duraark.eu/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building127_CITA-UnClean_PREVIEW.e57" .
-<http://data.duraark.eu/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://data.duraark.eu/vocab/buildm/format> "e57" .
-<http://data.duraark.eu/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
-<http://data.duraark.eu/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
-<http://data.duraark.eu/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
-<http://data.duraark.eu/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
-<http://data.duraark.eu/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
-<http://data.duraark.eu/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building127_Arch_PREVIEW.ifc" .
-<http://data.duraark.eu/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://data.duraark.eu/vocab/buildm/format> "e57" .
-<http://data.duraark.eu/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
-<http://data.duraark.eu/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
-<http://data.duraark.eu/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
-<http://data.duraark.eu/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/IFCSPFFile> .
-<http://data.duraark.eu/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
-<http://data.duraark.eu/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building127_Eng-CON_PREVIEW.ifc" .
-<http://data.duraark.eu/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://data.duraark.eu/vocab/buildm/format> "e57" .
-<http://data.duraark.eu/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
-<http://data.duraark.eu/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
-<http://data.duraark.eu/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
-<http://data.duraark.eu/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/IFCSPFFile> .
-<http://data.duraark.eu/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
-<http://data.duraark.eu/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building127_Eng-HVAC_PREVIEW.ifc" .
-<http://data.duraark.eu/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://data.duraark.eu/vocab/buildm/format> "e57" .
-<http://data.duraark.eu/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
-<http://data.duraark.eu/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
-<http://data.duraark.eu/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
-<http://data.duraark.eu/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/IFCSPFFile> .
+<http://data.duraark.eu/resource/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/resource/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building127_CITA-Sub5x5_PREVIEW.e57" .
+<http://data.duraark.eu/resource/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/resource/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/resource/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/resource/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/resource/e57file_761dc1dda92c47b1dd48d8bad4703e24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
+<http://data.duraark.eu/resource/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/resource/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building127_CITA-Clean_PREVIEW.e57" .
+<http://data.duraark.eu/resource/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/resource/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/resource/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/resource/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/resource/e57file_800b1ac404fb452ba911ef16d1f9bd57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
+<http://data.duraark.eu/resource/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/resource/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building127_CITA-UnClean_PREVIEW.e57" .
+<http://data.duraark.eu/resource/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/resource/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/resource/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/resource/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/resource/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
+<http://data.duraark.eu/resource/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/resource/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building127_Arch_PREVIEW.ifc" .
+<http://data.duraark.eu/resource/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/resource/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/resource/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/resource/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/resource/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/IFCSPFFile> .
+<http://data.duraark.eu/resource/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/resource/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building127_Eng-CON_PREVIEW.ifc" .
+<http://data.duraark.eu/resource/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/resource/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/resource/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/resource/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/resource/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/IFCSPFFile> .
+<http://data.duraark.eu/resource/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://data.duraark.eu/vocab/buildm/creator> "CITA, CCO" .
+<http://data.duraark.eu/resource/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building127_Eng-HVAC_PREVIEW.ifc" .
+<http://data.duraark.eu/resource/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://data.duraark.eu/vocab/buildm/format> "e57" .
+<http://data.duraark.eu/resource/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://data.duraark.eu/vocab/buildm/hasType> "Scan" .
+<http://data.duraark.eu/resource/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed" .
+<http://data.duraark.eu/resource/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/resource/ifcspffile_ea4e84d97427758d7d7426be88a6f43e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/IFCSPFFile> .
 <http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/addressRegion> "Lyngby-Taarbæk Kommune" .
 <http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/architect> "COO - Christensen & Co" .
 <http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
@@ -49,12 +49,12 @@
 <http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/cost> "8.850.000 USD" .
 <http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/description> "A green social study environment designed with a significant flexible architectural identit" .
 <http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
-<http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_761dc1dda92c47b1dd48d8bad4703e24" .
-<http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_800b1ac404fb452ba911ef16d1f9bd57" .
-<http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e" .
-<http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c" .
-<http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc" .
-<http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_ea4e84d97427758d7d7426be88a6f43e" .
+<http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/resource/e57file_761dc1dda92c47b1dd48d8bad4703e24" .
+<http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/resource/e57file_800b1ac404fb452ba911ef16d1f9bd57" .
+<http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/resource/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e" .
+<http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/resource/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c" .
+<http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/resource/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc" .
+<http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/resource/ifcspffile_ea4e84d97427758d7d7426be88a6f43e" .
 <http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/location> "In Greater Copenhagen, Kongens Lyngby a suburb to the city of Copenhagen." .
 <http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/name> "DTU - Institute Of Architectural Engineering - Building 127" .
 <http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed> <http://data.duraark.eu/vocab/buildm/owner> "Technical University of Denmark (DTU)" .

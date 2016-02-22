@@ -1,8 +1,8 @@
-<http://data.duraark.eu/e57file_e83e312b91d5bc0c8887fdd0c8affe71> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_UMTS_Exhibition/CITA_UMTS_Exhibition.e57" .
-<http://data.duraark.eu/e57file_e83e312b91d5bc0c8887fdd0c8affe71> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d" .
-<http://data.duraark.eu/e57file_e83e312b91d5bc0c8887fdd0c8affe71> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
-<http://data.duraark.eu/e57file_e83e312b91d5bc0c8887fdd0c8affe71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
-<http://data.duraark.eu/resource/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_e83e312b91d5bc0c8887fdd0c8affe71" .
+<http://data.duraark.eu/resource/e57file_e83e312b91d5bc0c8887fdd0c8affe71> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_UMTS_Exhibition/CITA_UMTS_Exhibition.e57" .
+<http://data.duraark.eu/resource/e57file_e83e312b91d5bc0c8887fdd0c8affe71> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d" .
+<http://data.duraark.eu/resource/e57file_e83e312b91d5bc0c8887fdd0c8affe71> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/resource/e57file_e83e312b91d5bc0c8887fdd0c8affe71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
+<http://data.duraark.eu/resource/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/resource/e57file_e83e312b91d5bc0c8887fdd0c8affe71" .
 <http://data.duraark.eu/resource/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d> <http://data.duraark.eu/vocab/buildm/name> "The Royal Danish Academy of Fine Arts\r\nSchools of Architecture, Design and Conservation" .
 <http://data.duraark.eu/resource/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
 <http://data.duraark.eu/resource/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/PhysicalAsset> .
