@@ -4,40 +4,44 @@
 <http://data.duraark.eu/e57file_1bda579821faeebb239f943d5e8bfa49> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/FOJAB_Landsarkivet/FOJAB_Landsarkivet_Building2014.e57" .
 <http://data.duraark.eu/e57file_1bda579821faeebb239f943d5e8bfa49> <http://data.duraark.eu/vocab/buildm/format> "E57" .
 <http://data.duraark.eu/e57file_1bda579821faeebb239f943d5e8bfa49> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
-<http://data.duraark.eu/e57file_1bda579821faeebb239f943d5e8bfa49> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7" .
+<http://data.duraark.eu/e57file_1bda579821faeebb239f943d5e8bfa49> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7" .
 <http://data.duraark.eu/e57file_1bda579821faeebb239f943d5e8bfa49> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_1bda579821faeebb239f943d5e8bfa49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
 <http://data.duraark.eu/e57file_eb507843d0c0c60d2e97116d6885fc3e> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
 <http://data.duraark.eu/e57file_eb507843d0c0c60d2e97116d6885fc3e> <http://data.duraark.eu/vocab/buildm/description> "Ground floor survey of three generation buildings, two of which connected." .
 <http://data.duraark.eu/e57file_eb507843d0c0c60d2e97116d6885fc3e> <http://data.duraark.eu/vocab/buildm/event> "Comparison of designer BIM-model, and tolerance of the built ground-truth." .
 <http://data.duraark.eu/e57file_eb507843d0c0c60d2e97116d6885fc3e> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/FOJAB_Landsarkivet/FOJAB_Landsarkivet_Building1900_1970.e57" .
 <http://data.duraark.eu/e57file_eb507843d0c0c60d2e97116d6885fc3e> <http://data.duraark.eu/vocab/buildm/format> "E57" .
 <http://data.duraark.eu/e57file_eb507843d0c0c60d2e97116d6885fc3e> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
-<http://data.duraark.eu/e57file_eb507843d0c0c60d2e97116d6885fc3e> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7" .
+<http://data.duraark.eu/e57file_eb507843d0c0c60d2e97116d6885fc3e> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7" .
 <http://data.duraark.eu/e57file_eb507843d0c0c60d2e97116d6885fc3e> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/e57file_eb507843d0c0c60d2e97116d6885fc3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
 <http://data.duraark.eu/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
 <http://data.duraark.eu/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f> <http://data.duraark.eu/vocab/buildm/description> "Ground floor survey of three generation buildings, two of which connected." .
 <http://data.duraark.eu/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f> <http://data.duraark.eu/vocab/buildm/event> "Comparison of designer BIM-model, and tolerance of the built ground-truth." .
 <http://data.duraark.eu/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/FOJAB_Landsarkivet/FOJAB_Landsarkivet.ifc" .
 <http://data.duraark.eu/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f> <http://data.duraark.eu/vocab/buildm/format> "E57" .
 <http://data.duraark.eu/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
-<http://data.duraark.eu/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7" .
+<http://data.duraark.eu/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7" .
 <http://data.duraark.eu/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/addressRegion> "SCANIA, Greater Copenhagen" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/architect> "Carl Møller 1903, Bernt Nyberg 1968-71, FOJAB arkitekter 2014" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Nordic Classicism, Functionalism/Modernism, Modern" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/description> "Regional Archives in Lund, built in 1903, by the initiative of historian Martin Weibull whose son Lauritz Weibull became its first director, archivist.  \nRegional Archives in Lund ( LLA ) was one of Sweden's ten provincial archives and had primary responsibility for the archival documents from the regional government creators in Blekinge, Skåne and Halland. But the archives also holds private archive material such as land and farm archives , private archives and business archives. Previously a separate archive, since January 1, 2010, part of the National Archives. Archives was relocated 2013 to Gastelyckan outside the city. The original premises at Arkivgatan in central Lund has been taken over by Lund Nation, and is being converted into housing." .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/floorCount> "7" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_1bda579821faeebb239f943d5e8bfa49" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_eb507843d0c0c60d2e97116d6885fc3e" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/location> "Central Lund" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/modificationDetails> "The building was built as part of the original\nLandsarkivet 1903. 1971, in connection with the new building, the old building was re-built into studying/reading- room.\nThe building is characterized by its large windows in the massive brick facade, and internally by the visible steel frame. Here are today both corridor with\nshared kitchen loft apartments on two floors" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/name> "LUNDS NATION LANDSARKIVET, STUDENTBOSTÄDER" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Student Housing" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/owner> "LUNDS NATION ARKIVET AB" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "223 51" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/postalLocality> "LUND" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1968" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/startDate> "1903" .
-<http://data.duraark.eu/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/streetAddress> "LUNDS NATION, KV ARKIVET 1,\nSWEDEN" .
+<http://data.duraark.eu/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/IFCSPFFile> .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/addressRegion> "SCANIA, Greater Copenhagen" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/architect> "Carl Møller 1903, Bernt Nyberg 1968-71, FOJAB arkitekter 2014" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Nordic Classicism, Functionalism/Modernism, Modern" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/description> "Regional Archives in Lund, built in 1903, by the initiative of historian Martin Weibull whose son Lauritz Weibull became its first director, archivist.  \nRegional Archives in Lund ( LLA ) was one of Sweden's ten provincial archives and had primary responsibility for the archival documents from the regional government creators in Blekinge, Skåne and Halland. But the archives also holds private archive material such as land and farm archives , private archives and business archives. Previously a separate archive, since January 1, 2010, part of the National Archives. Archives was relocated 2013 to Gastelyckan outside the city. The original premises at Arkivgatan in central Lund has been taken over by Lund Nation, and is being converted into housing." .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/floorCount> "7" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_1bda579821faeebb239f943d5e8bfa49" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_eb507843d0c0c60d2e97116d6885fc3e" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/location> "Central Lund" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/modificationDetails> "The building was built as part of the original\nLandsarkivet 1903. 1971, in connection with the new building, the old building was re-built into studying/reading- room.\nThe building is characterized by its large windows in the massive brick facade, and internally by the visible steel frame. Here are today both corridor with\nshared kitchen loft apartments on two floors" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/name> "LUNDS NATION LANDSARKIVET, STUDENTBOSTÄDER" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Student Housing" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/owner> "LUNDS NATION ARKIVET AB" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "223 51" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/postalLocality> "LUND" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1968" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/startDate> "1903" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://data.duraark.eu/vocab/buildm/streetAddress> "LUNDS NATION, KV ARKIVET 1,\nSWEDEN" .
+<http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/PhysicalAsset> .

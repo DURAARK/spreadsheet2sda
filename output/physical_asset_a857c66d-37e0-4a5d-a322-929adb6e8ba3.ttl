@@ -2,34 +2,37 @@
 <http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd> <http://data.duraark.eu/vocab/buildm/dateCreated> "20151217" .
 <http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd> <http://data.duraark.eu/vocab/buildm/description> "2 floors interiror survey of one family row-house. Exterior scan positions the house in it's row." .
 <http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd> <http://data.duraark.eu/vocab/buildm/event> "Comparison of architects BIM-model and built ground-truth." .
-<http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd> <http://data.duraark.eu/vocab/buildm/filename> "2Floor.e57" .
 <http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd> <http://data.duraark.eu/vocab/buildm/format> "E57" .
 <http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
-<http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3" .
+<http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3" .
 <http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
 <http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db> <http://data.duraark.eu/vocab/buildm/creator> "CITA" .
 <http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db> <http://data.duraark.eu/vocab/buildm/dateCreated> "20151217" .
 <http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db> <http://data.duraark.eu/vocab/buildm/description> "2 floors interiror survey of one family row-house. Exterior scan positions the house in it's row." .
 <http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db> <http://data.duraark.eu/vocab/buildm/event> "Comparison of architects BIM-model and built ground-truth." .
-<http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
+<http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db> <http://data.duraark.eu/vocab/buildm/filename> "1Floor.e57" .
 <http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db> <http://data.duraark.eu/vocab/buildm/format> "E57" .
 <http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db> <http://data.duraark.eu/vocab/buildm/hasType> "SCAN" .
-<http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3" .
+<http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3" .
 <http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/addressRegion> "SCANIA, Greater Copenhagen" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/architect> "WHITE arkitekter" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/completionDate> "2015" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/description> "Street houses in various sizes with two floors of 144 or 163 square meters to two and a half floor of 170 sqm." .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/location> "The expansion of Limhamns Läge done at the former cement factory area where the Skånska Cementaktiebolaget, began to produce and ship out cement already in the latter part of the 1800s. 2000 the company shut down the factory, and the area has been left unused and inaccessible. With the new extension the area is for the first time available to the public." .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/name> "Limhamns Læge Rowhouses" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Family house" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/owner> "NCC, (almost all of the rowhouses are sold)" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "216 12" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/postalLocality> "MALMØ" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/startDate> "2014" .
-<http://data.duraark.eu/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/streetAddress> "Lokstallsgatan" .
+<http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/addressRegion> "SCANIA, Greater Copenhagen" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/architect> "WHITE arkitekter" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/completionDate> "2015" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/description> "Street houses in various sizes with two floors of 144 or 163 square meters to two and a half floor of 170 sqm." .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_0b1e15ca4a794faab9e476c6431744bd" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_7d557e562ff8fd8b3eb393ddd75ab6db" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/location> "The expansion of Limhamns Läge done at the former cement factory area where the Skånska Cementaktiebolaget, began to produce and ship out cement already in the latter part of the 1800s. 2000 the company shut down the factory, and the area has been left unused and inaccessible. With the new extension the area is for the first time available to the public." .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/name> "Limhamns Læge Rowhouses" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Family house" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/owner> "NCC, (almost all of the rowhouses are sold)" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "216 12" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/postalLocality> "MALMØ" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Preview" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/startDate> "2014" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://data.duraark.eu/vocab/buildm/streetAddress> "Lokstallsgatan" .
+<http://data.duraark.eu/resource/physical_asset_a857c66d-37e0-4a5d-a322-929adb6e8ba3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/PhysicalAsset> .

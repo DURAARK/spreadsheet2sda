@@ -56,10 +56,10 @@ _.forEach(cols, function(col) {
 
       var tmp = [];
       _.forEach(e57sJsonLD, function(item) {
-        delete item.jsonld['@type']; // the SDA does not cope with the @type predicate
+        // delete item.jsonld['@type']; // the SDAVer does not cope with the @type predicate
         tmp.push(item.jsonld);
       });
-      delete paJsonLD.jsonld['@type']; // the SDA does not cope with the @type predicate
+      // delete paJsonLD.jsonld['@type']; // the SDAVer does not cope with the @type predicate
       tmp.push(paJsonLD.jsonld);
 
       converter.writeRDFFile(tmp, paJsonLD.uri).then(function(rdfFilePath) {

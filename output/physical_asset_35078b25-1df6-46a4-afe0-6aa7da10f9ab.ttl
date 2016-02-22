@@ -1,33 +1,38 @@
-<http://data.duraark.eu/ifcspffile_7df44337105264132e90a3b11094c0a6> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
-<http://data.duraark.eu/ifcspffile_7df44337105264132e90a3b11094c0a6> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
+<http://data.duraark.eu/ifcspffile_7df44337105264132e90a3b11094c0a6> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building324_Construction_Electrical.ifc" .
+<http://data.duraark.eu/ifcspffile_7df44337105264132e90a3b11094c0a6> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
 <http://data.duraark.eu/ifcspffile_7df44337105264132e90a3b11094c0a6> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
-<http://data.duraark.eu/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
-<http://data.duraark.eu/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
+<http://data.duraark.eu/ifcspffile_7df44337105264132e90a3b11094c0a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/IFCSPFFile> .
+<http://data.duraark.eu/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building324_Construction_Ventilation.ifc" .
+<http://data.duraark.eu/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
 <http://data.duraark.eu/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
-<http://data.duraark.eu/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
-<http://data.duraark.eu/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
+<http://data.duraark.eu/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/IFCSPFFile> .
+<http://data.duraark.eu/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building324_Construction_Architectural.ifc" .
+<http://data.duraark.eu/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
 <http://data.duraark.eu/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
-<http://data.duraark.eu/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
-<http://data.duraark.eu/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
+<http://data.duraark.eu/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/IFCSPFFile> .
+<http://data.duraark.eu/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building324_Construction_Structure.ifc" .
+<http://data.duraark.eu/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab" .
 <http://data.duraark.eu/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/addressRegion> "Lyngby-Taarbæk Kommune" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/architect> "Christensen & Co" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/buildingArea> "4.600 m2" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/completionDate> "2013" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/cost> "14,5 million USD" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/description> "Part of a 0.5 billion USD upgrade of the campus" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/floorCount> "3" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_7df44337105264132e90a3b11094c0a6" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/location> "In Greater Copenhagen, Kongens Lyngby a suburb to the city of Copenhagen" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/name> "DTU Compute" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Research and education" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/owner> "Technical University of Denmark (DTU)" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "2800" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/postalLocality> "Kgs. Lyngby By, Lundtofte" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/startDate> "2011" .
-<http://data.duraark.eu/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/streetAddress> "Danmarks Tekniske Universitet, Bygning 324" .
+<http://data.duraark.eu/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/IFCSPFFile> .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/addressRegion> "Lyngby-Taarbæk Kommune" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/architect> "Christensen & Co" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/buildingArea> "4.600 m2" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/completionDate> "2013" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/cost> "14,5 million USD" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/description> "Part of a 0.5 billion USD upgrade of the campus" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/floorCount> "3" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_7df44337105264132e90a3b11094c0a6" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/location> "In Greater Copenhagen, Kongens Lyngby a suburb to the city of Copenhagen" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/name> "DTU Compute" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Research and education" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/owner> "Technical University of Denmark (DTU)" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "2800" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/postalLocality> "Kgs. Lyngby By, Lundtofte" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/startDate> "2011" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://data.duraark.eu/vocab/buildm/streetAddress> "Danmarks Tekniske Universitet, Bygning 324" .
+<http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/PhysicalAsset> .

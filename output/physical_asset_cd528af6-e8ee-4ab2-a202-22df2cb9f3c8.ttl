@@ -1,17 +1,19 @@
-<http://data.duraark.eu/ifcspffile_5f8e5edb63823d009bce0b6a525be77d> <http://data.duraark.eu/vocab/buildm/filename> "undisclosed" .
-<http://data.duraark.eu/ifcspffile_5f8e5edb63823d009bce0b6a525be77d> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8" .
+<http://data.duraark.eu/ifcspffile_5f8e5edb63823d009bce0b6a525be77d> <http://data.duraark.eu/vocab/buildm/filename> "CCO_DTU-Building-204_FM_CONF.ifc" .
+<http://data.duraark.eu/ifcspffile_5f8e5edb63823d009bce0b6a525be77d> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8" .
 <http://data.duraark.eu/ifcspffile_5f8e5edb63823d009bce0b6a525be77d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/addressRegion> "Lyngby-Taarbæk Kommune" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/buildingArea> "7.000 m2" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/description> "Part of the 2nd (2/4) complex on campus that also includes biology and a sport area" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_5f8e5edb63823d009bce0b6a525be77d" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/location> "In Greater Copenhagen, Kongens Lyngby a suburb to the city of Copenhagen" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/name> "DTU Chemistry" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Chemistry laboratories" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/owner> "Technical University of Denmark (DTU)" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "2800" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/postalLocality> "Kgs. Lyngby By, Lundtofte" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
-<http://data.duraark.eu/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/streetAddress> "Danmarks Tekniske Universitet, Bygning 204" .
+<http://data.duraark.eu/ifcspffile_5f8e5edb63823d009bce0b6a525be77d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/IFCSPFFile> .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/addressRegion> "Lyngby-Taarbæk Kommune" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Modern" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/buildingArea> "7.000 m2" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/description> "Part of the 2nd (2/4) complex on campus that also includes biology and a sport area" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/ifcspffile_5f8e5edb63823d009bce0b6a525be77d" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/location> "In Greater Copenhagen, Kongens Lyngby a suburb to the city of Copenhagen" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/name> "DTU Chemistry" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/numberOfRooms> "Chemistry laboratories" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/owner> "Technical University of Denmark (DTU)" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "2800" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/postalLocality> "Kgs. Lyngby By, Lundtofte" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Confidential" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://data.duraark.eu/vocab/buildm/streetAddress> "Danmarks Tekniske Universitet, Bygning 204" .
+<http://data.duraark.eu/resource/physical_asset_cd528af6-e8ee-4ab2-a202-22df2cb9f3c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/PhysicalAsset> .

@@ -1,20 +1,22 @@
 <http://data.duraark.eu/e57file_2566144e3886ee4f3d86b5500a348dc0> <http://data.duraark.eu/vocab/buildm/filename> "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_NikolajKunsthal/CITA_NikolajKunsthal.e57" .
-<http://data.duraark.eu/e57file_2566144e3886ee4f3d86b5500a348dc0> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca" .
+<http://data.duraark.eu/e57file_2566144e3886ee4f3d86b5500a348dc0> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca" .
 <http://data.duraark.eu/e57file_2566144e3886ee4f3d86b5500a348dc0> <http://data.duraark.eu/vocab/buildm/rightsDetails> "public" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/architect> "Possibly Flemish Hans van Stenwinkel," .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "The original building was a late-Romanesque, which was replaced by a larger Gothic building around 1500. Towards the end of the century a tower was built to the west of the nave. It was completed in 1591, and is a monumental example of the Renaissance architecture. In 1909 J. C. Jacobsen, donated a new spire. A few years later Permanent Secretary Rentzmann donated the funds to build a Gothic nave – a shorter version of the one that had burnt to the ground." .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/buildingArea> "1363 m2" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/contributor> "J. C. Jacobsen and Permanent Secretary Rentzmann" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/description> "Since 1957, when Knud Petersen opened his art library, the building has played a significant role in contemporary art." .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/floorCount> "4" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_2566144e3886ee4f3d86b5500a348dc0" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/location> "Located in the heart of the inner city close to Kongens Nytorv" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/modificationDetails> "A new spire was donated after the previous one collapsed during a storm" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/name> "Kunsthallen Nikolaj" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/owner> "The Danish State" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1067" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/postalLocality> "København K" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1909" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/rightsDetails> "public" .
-<http://data.duraark.eu/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/streetAddress> "Nikolaj Plads 10" .
+<http://data.duraark.eu/e57file_2566144e3886ee4f3d86b5500a348dc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/architect> "Possibly Flemish Hans van Stenwinkel," .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "The original building was a late-Romanesque, which was replaced by a larger Gothic building around 1500. Towards the end of the century a tower was built to the west of the nave. It was completed in 1591, and is a monumental example of the Renaissance architecture. In 1909 J. C. Jacobsen, donated a new spire. A few years later Permanent Secretary Rentzmann donated the funds to build a Gothic nave – a shorter version of the one that had burnt to the ground." .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/buildingArea> "1363 m2" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/contributor> "J. C. Jacobsen and Permanent Secretary Rentzmann" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/description> "Since 1957, when Knud Petersen opened his art library, the building has played a significant role in contemporary art." .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/floorCount> "4" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_2566144e3886ee4f3d86b5500a348dc0" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/location> "Located in the heart of the inner city close to Kongens Nytorv" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/modificationDetails> "A new spire was donated after the previous one collapsed during a storm" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/name> "Kunsthallen Nikolaj" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/owner> "The Danish State" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1067" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/postalLocality> "København K" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1909" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/rightsDetails> "public" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://data.duraark.eu/vocab/buildm/streetAddress> "Nikolaj Plads 10" .
+<http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/PhysicalAsset> .

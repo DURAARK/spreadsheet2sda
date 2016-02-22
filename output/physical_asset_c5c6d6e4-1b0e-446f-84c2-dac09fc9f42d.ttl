@@ -5,22 +5,24 @@
 <http://data.duraark.eu/e57file_833cba1cee3254810fea01d53748f050> <http://data.duraark.eu/vocab/buildm/format> "e57" .
 <http://data.duraark.eu/e57file_833cba1cee3254810fea01d53748f050> <http://data.duraark.eu/vocab/buildm/hasFormatDetails> ".zip" .
 <http://data.duraark.eu/e57file_833cba1cee3254810fea01d53748f050> <http://data.duraark.eu/vocab/buildm/hasType> "Scans" .
-<http://data.duraark.eu/e57file_833cba1cee3254810fea01d53748f050> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d" .
+<http://data.duraark.eu/e57file_833cba1cee3254810fea01d53748f050> <http://data.duraark.eu/vocab/buildm/represents> "http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d" .
 <http://data.duraark.eu/e57file_833cba1cee3254810fea01d53748f050> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/architect> "Ferdinand Meldahl" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Nordic Classicism" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/buildingArea> "2022" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/completionDate> "1883" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/description> "Built in coherence with the original buildings of the Navy's naval dockyard, naval base, and the harbour magazines from 1766-72. Later Meldahls smithery from 1861. Refurbished into an Architecture School 1994-96." .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_833cba1cee3254810fea01d53748f050" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/location> "Located in the harbour on the Holmen island, on axis from the Royal Palace Amalienborg on the other side of the harbour. More recently neighbouring the new opera house." .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/modificationDetails> "The protected buildings (magazines, smithery etc.) was restored and converted into classrooms, auditoriums, multi -room activities, exhibitions, special institutes, research, study offices, workshops and administration." .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/name> "The Royal Danish Academy of Fine Arts\nSchools of Architecture, Bygning 72" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/owner> "State" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1435" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/postalLocality> "Copenhagen" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1994" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
-<http://data.duraark.eu/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/streetAddress> "Philip de Langes Allé 11" .
+<http://data.duraark.eu/e57file_833cba1cee3254810fea01d53748f050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/E57File> .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/addressRegion> "København K" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/architect> "Ferdinand Meldahl" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/architecturalStyle> "Nordic Classicism" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/buildingArea> "2022" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/completionDate> "1883" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/description> "Built in coherence with the original buildings of the Navy's naval dockyard, naval base, and the harbour magazines from 1766-72. Later Meldahls smithery from 1861. Refurbished into an Architecture School 1994-96." .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/floorCount> "2" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/isRepresentedBy> "http://data.duraark.eu/e57file_833cba1cee3254810fea01d53748f050" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/location> "Located in the harbour on the Holmen island, on axis from the Royal Palace Amalienborg on the other side of the harbour. More recently neighbouring the new opera house." .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/modificationDetails> "The protected buildings (magazines, smithery etc.) was restored and converted into classrooms, auditoriums, multi -room activities, exhibitions, special institutes, research, study offices, workshops and administration." .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/name> "The Royal Danish Academy of Fine Arts\nSchools of Architecture, Bygning 72" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/owner> "State" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/postalCodeStart> "1435" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/postalLocality> "Copenhagen" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/rebuildingDate> "1994" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/rightsDetails> "Public" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://data.duraark.eu/vocab/buildm/streetAddress> "Philip de Langes Allé 11" .
+<http://data.duraark.eu/resource/physical_asset_c5c6d6e4-1b0e-446f-84c2-dac09fc9f42d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.duraark.eu/vocab/buildm/PhysicalAsset> .
