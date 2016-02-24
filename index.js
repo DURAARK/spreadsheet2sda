@@ -12,7 +12,7 @@ var converter = new Converter({
     metadataFilePath: metadataFilePath,
     sheetName: 'MetaData',
     paRowStart: '6',
-    paRowEnd: '32',
+    paRowEnd: '67',
     e57RowStart: '48',
     e57RowEnd: '60',
     paData2buildm: paData2buildm,
@@ -24,22 +24,20 @@ var converter = new Converter({
   cols = ['AJ'];
 
 var fileProvisioner = new FileProvisioner({
-  dryRun: true
+  dryRun: false
 });
 
 
 _.forEach(cols, function(col) {
+  // fileProvisioner.provisionFiles({
+  //   col: col,
+  //   rowStart: '62',
+  //   rowEnd: '67',
+  //   keyMap: fileLocationMap,
+  //   spreadsheet: converter // FIXXME: create a Spreadsheet object responsible for mapping data from XLSX to JSON
+  // });
 
-  fileProvisioner.provisionFiles({
-    col: col,
-    rowStart: '62',
-    rowEnd: '67',
-    keyMap: fileLocationMap,
-    spreadsheet: converter // FIXXME: create a Spreadsheet object responsible for mapping data from XLSX to JSON
-  });
-
-  //
-  return;
+  // return;
 
   var paDataset = converter.getPADataFromSheet(col),
     e57Dataset = converter.getE57DataFromSheet(col),
@@ -52,7 +50,10 @@ _.forEach(cols, function(col) {
 
     var e57sJsonLD = [];
 
-    var basePath = '/tmp/duraark-data' + paDataset.fileBaseUrl + '/';
+    // var basePath = '/tmp/duraark-data' + paDataset.fileBaseUrl + '/';
+    var basePath = paDataset.fileBaseUrlAFS + '/';
+    basePath = basePath.replace('~', '/home/mhecher'); // FIXXME!
+    console.log('AFS: ' + basePath);
 
     converter.getDigitalObjectsUrls(basePath).then(function(filePaths) {
       _.forEach(filePaths, function(filePath) {

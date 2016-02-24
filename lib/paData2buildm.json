@@ -1,6 +1,7 @@
 {
   "E57": "rightsDetails",
   "fileBaseUrl": "fileBaseUrl",
+  "FhA/AFS location": "fileBaseUrlAFS",
   "URI": "uri",
   "Building Name": "name",
   "Building Owner": "owner",
