@@ -1,8 +1,11 @@
-var metadataFilePath = './data/2016-02-13_metadata.xlsx',
+var metadataFilePath = './data/2016-02-24_metadata.xlsx',
   paData2buildm = require('./lib/paData2buildm'),
   e57Data2buildm = require('./lib/e57Data2buildm'),
   Converter = require('./lib/converter'),
+  FileProvisioner = require('./lib/file-provisioner'),
+  fileLocationMap = require('./data/fileLocationMap.json'),
   _ = require('underscore'),
+  path = require('path'),
   util = require('util');
 
 var converter = new Converter({
@@ -17,10 +20,27 @@ var converter = new Converter({
     buildmBaseUrl: 'http://data.duraark.eu/vocab/buildm/'
   }),
   insertIntoSDAS = false,
-  cols = ['AA', 'AD', 'AI', 'AJ', 'AK', 'AL', 'AV', 'AZ', 'BA', 'BC', 'BL', 'BM', 'BN', 'BQ', 'BS', 'BT', 'BU', 'BW', 'BZ', 'CD', 'CI'];
-  // cols = ['AJ'];
+  // cols = ['AA', 'AD', 'AI', 'AJ', 'AK', 'AL', 'AV', 'AZ', 'BA', 'BC', 'BL', 'BM', 'BN', 'BQ', 'BS', 'BT', 'BU', 'BW', 'BZ', 'CD', 'CI'];
+  cols = ['AJ'];
+
+var fileProvisioner = new FileProvisioner({
+  dryRun: true
+});
+
 
 _.forEach(cols, function(col) {
+
+  fileProvisioner.provisionFiles({
+    col: col,
+    rowStart: '62',
+    rowEnd: '67',
+    keyMap: fileLocationMap,
+    spreadsheet: converter // FIXXME: create a Spreadsheet object responsible for mapping data from XLSX to JSON
+  });
+
+  //
+  return;
+
   var paDataset = converter.getPADataFromSheet(col),
     e57Dataset = converter.getE57DataFromSheet(col),
     name = paDataset.name;
