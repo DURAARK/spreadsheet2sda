@@ -208,13 +208,15 @@
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Byg72_ScanJune2015/derivative_copy/Byg72_BasedOn_1st_Scan_Alternative.ifc",
             "type": "ifc",
             "size": 419280,
-            "downloadAllowed": true
+            "downloadAllowed": true,
+            "downloadURL": "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/CITA_Byg72_ScanJune2015/Byg72_BasedOn_1st_Scan_Alternative.ifc"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Byg72_ScanJune2015/master/CITA_Byg72_1st_Scan-0.02.e57n",
             "type": "e57n",
             "size": 13756925952,
-            "downloadAllowed": true
+            "downloadAllowed": true,
+            "downloadURL": "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/CITA_Byg72_ScanJune2015/CITA_Byg72_1st_Scan.e57"
         }
     ],
     "createdAt": "2016-02-11T22:48:24.118Z",

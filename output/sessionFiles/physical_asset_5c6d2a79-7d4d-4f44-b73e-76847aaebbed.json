@@ -335,37 +335,43 @@
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/CCO_DTU-Building127_Arch_PREVIEW.ifc",
             "type": "ifc",
             "size": 11453493,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/CCO/DTU-Building127/CCO_DTU-Building127_Arch_PREVIEW.ifc"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/CCO_DTU-Building127_CITA-Clean_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 20521293824,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/CCO/DTU-Building127/CCO_DTU-Building127_CITA-Clean_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/CCO_DTU-Building127_CITA-Sub5x5_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 778851328,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/CCO/DTU-Building127/CCO_DTU-Building127_CITA-Sub5x5_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/CCO_DTU-Building127_CITA-UnClean_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 19454152704,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/CCO/DTU-Building127/CCO_DTU-Building127_CITA-UnClean_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/CCO_DTU-Building127_Eng-CON_PREVIEW.ifc",
             "type": "ifc",
             "size": 28079416,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/CCO/DTU-Building127/CCO_DTU-Building127_Eng-CON_PREVIEW.ifc"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/CCO_DTU-Building127_Eng-HVAC_PREVIEW.ifc",
             "type": "ifc",
             "size": 34881287,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/CCO/DTU-Building127/CCO_DTU-Building127_Eng-HVAC_PREVIEW.ifc"
         }
     ],
     "createdAt": "2016-02-11T22:48:24.118Z",

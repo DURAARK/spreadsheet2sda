@@ -165,7 +165,8 @@
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_DesignMuseum/master/DesignMuseum_Full-0.02.e57n",
             "type": "e57n",
             "size": 5887470592,
-            "downloadAllowed": true
+            "downloadAllowed": true,
+            "downloadURL": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_DesignMuseum/DesignMuseum_Full.e57"
         }
     ],
     "createdAt": "2016-02-11T22:48:24.118Z",

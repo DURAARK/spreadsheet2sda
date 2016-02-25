@@ -55,7 +55,8 @@
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_UMTS_Exhibition/master/CITA_UMTS_Exhibition-0.04.e57n",
             "type": "e57n",
             "size": 14880409600,
-            "downloadAllowed": true
+            "downloadAllowed": true,
+            "downloadURL": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_UMTS_Exhibition/CITA_UMTS_Exhibition.e57"
         }
     ],
     "createdAt": "2016-02-11T22:48:24.118Z",

@@ -62,7 +62,7 @@ _.forEach(cols, function(col) {
 
     converter.getDigitalObjectsUrls(basePathTIB).then(function(filePathsTIB) {
       _.forEach(filePathsTIB, function(filePathTIB) {
-        // console.log('    adding file: ' + filePath);
+        // console.log('    adding file: ' + filePathTIB);
         var ext = path.extname(filePathTIB).toLowerCase();
 
         if (ext !== '.zip') {

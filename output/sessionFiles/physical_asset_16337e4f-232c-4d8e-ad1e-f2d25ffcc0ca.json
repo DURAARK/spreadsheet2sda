@@ -125,7 +125,8 @@
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_NikolajKunsthal/master/CITA_NikolajKunsthal-0.04.e57n",
             "type": "e57n",
             "size": 3789486080,
-            "downloadAllowed": true
+            "downloadAllowed": true,
+            "downloadURL": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_NikolajKunsthal/CITA_NikolajKunsthal.e57"
         }
     ],
     "createdAt": "2016-02-11T22:48:24.118Z",

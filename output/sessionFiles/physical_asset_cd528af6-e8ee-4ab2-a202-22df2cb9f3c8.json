@@ -110,7 +110,8 @@
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/Fojab/CCO/DTU-Building-204/derivative_copy/CCO_DTU-Building-204_FM_CONF.ifc",
             "type": "ifc",
             "size": 38702739,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/03_CONFIDENTIAL/01_IFC/CCO/DTU-Building-204/CCO_DTU-Building-204_FM_CONF.ifc"
         }
     ],
     "createdAt": "2016-02-11T22:48:24.118Z",

@@ -203,13 +203,15 @@
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/WhiteArchitects/LimhamnsLæge/master/1Floor-0.04.e57n",
             "type": "e57n",
             "size": 2812039168,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/WhiteArchitects/LimhamnsLæge/1Floor.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/WhiteArchitects/LimhamnsLæge/master/2Floor-0.04.e57n",
             "type": "e57n",
             "size": 5641739264,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/WhiteArchitects/LimhamnsLæge/2Floor.e57"
         }
     ],
     "createdAt": "2016-02-11T22:48:24.118Z",

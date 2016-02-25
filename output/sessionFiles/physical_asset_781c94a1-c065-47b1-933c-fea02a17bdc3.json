@@ -150,7 +150,8 @@
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/ZESO/master/ZESO_Nygade_PREVIEW-0.06.e57n",
             "type": "e57n",
             "size": 32244563968,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/02_E57/ZESO/ZESO_Nygade_PREVIEW.e57"
         }
     ],
     "createdAt": "2016-02-11T22:48:24.118Z",

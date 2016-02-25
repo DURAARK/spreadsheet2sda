@@ -217,31 +217,36 @@
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Diakonissen/master/CITA_Diakon_1stFloor-0.04.e57n",
             "type": "e57n",
             "size": 3433420800,
-            "downloadAllowed": true
+            "downloadAllowed": true,
+            "downloadURL": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Diakonissen/CITA_Diakon_1stFloor.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Diakonissen/master/CITA_Diakon_Basement-0.04.e57n",
             "type": "e57n",
             "size": 8244007936,
-            "downloadAllowed": true
+            "downloadAllowed": true,
+            "downloadURL": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Diakonissen/CITA_Diakon_Basement.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Diakonissen/master/CITA_Diakon_GroundFloor-0.04.e57n",
             "type": "e57n",
             "size": 6538689536,
-            "downloadAllowed": true
+            "downloadAllowed": true,
+            "downloadURL": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Diakonissen/CITA_Diakon_GroundFloor.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Diakonissen/master/CITA_Diakon_Outside-0.04.e57n",
             "type": "e57n",
             "size": 9424406528,
-            "downloadAllowed": true
+            "downloadAllowed": true,
+            "downloadURL": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Diakonissen/CITA_Diakon_Outside.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Diakonissen/master/CITA_Diakon_Staircase-0.04.e57n",
             "type": "e57n",
             "size": 5177419776,
-            "downloadAllowed": true
+            "downloadAllowed": true,
+            "downloadURL": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Diakonissen/CITA_Diakon_Staircase.e57"
         }
     ],
     "createdAt": "2016-02-11T22:48:24.118Z",

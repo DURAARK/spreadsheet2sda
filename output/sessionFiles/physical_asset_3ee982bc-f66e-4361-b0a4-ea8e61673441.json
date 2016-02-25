@@ -1280,187 +1280,218 @@
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-1-1-Floor-1_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 13705868288,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-1-1-Floor-1_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-1-1-Floor-2_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 21389813760,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-1-1-Floor-2_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-1-2-Floor-1_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 10644402176,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-1-2-Floor-1_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-1-2-Floor-2_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 14996110336,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-1-2-Floor-2_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-1-3-Floor_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 110953430016,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-1-3-Floor_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-1-Kaelder_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 43247096832,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-1-Kaelder_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-1-Stuen_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 64482313216,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-1-Stuen_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-1-Trappe_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 33655529472,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-1-Trappe_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-2-1-Floor_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 29943805952,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-2-1-Floor_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-2-2-Floor_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 51044357120,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-2-2-Floor_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-2-3-Floor_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 32194025472,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-2-3-Floor_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-2-4-Floor_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 33429449728,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-2-4-Floor_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-2-5-Floor_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 29480031232,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-2-5-Floor_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-2-Kaelder_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 47014142976,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-2-Kaelder_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-2-Stue_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 33045810176,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-2-Stue_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-3-1-Floor_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 8578627584,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-3-1-Floor_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-3-2-Floor_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 4290854912,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-3-2-Floor_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-3-3-Floor_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 6443728896,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-3-3-Floor_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-3-4-Floor_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 12911830016,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-3-4-Floor_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-3-Kaelder_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 9688625152,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-3-Kaelder_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-3-Stue_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 10747456512,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-3-Stue_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Byg-3-Trappe_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 17326796800,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Byg-3-Trappe_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Exterior-1_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 4192057344,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Exterior-1_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Exterior-3_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 882234368,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Exterior-3_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Exterior-4_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 4519118848,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Exterior-4_PREVIEW.e57"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/LE34_Carlsberg_SG-265-Building-1_PREVIEW.ifc",
             "type": "ifc",
             "size": 73359868,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_SG-265-Building-1_PREVIEW.ifc"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/LE34_Carlsberg_SG-265-Building-2_PREVIEW.ifc",
             "type": "ifc",
             "size": 125097858,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_SG-265-Building-2_PREVIEW.ifc"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/LE34_Carlsberg_SG-265-Building-2-Exterior_PREVIEW.ifc",
             "type": "ifc",
             "size": 118785578,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_SG-265-Building-2-Exterior_PREVIEW.ifc"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/LE34_Carlsberg_SG-265-Building-3_PREVIEW.ifc",
             "type": "ifc",
             "size": 39345858,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_SG-265-Building-3_PREVIEW.ifc"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/LE34_Carlsberg_SG-265-Tower-1-2_PREVIEW.ifc",
             "type": "ifc",
             "size": 97416325,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_SG-265-Tower-1-2_PREVIEW.ifc"
         },
         {
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/LE34_Carlsberg_Tag_PREVIEW-0.04.e57n",
             "type": "e57n",
             "size": 5502124032,
-            "downloadAllowed": false
+            "downloadAllowed": false,
+            "downloadURL": "http://duraark.tib.eu/data/CITA/01_DataSets/02_PREVIEW/03_IFC-E57/LE34/Carlsberg/LE34_Carlsberg_Tag_PREVIEW.e57"
         }
     ],
     "createdAt": "2016-02-11T22:48:24.118Z",

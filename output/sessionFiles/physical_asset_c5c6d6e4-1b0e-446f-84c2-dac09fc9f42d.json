@@ -155,7 +155,8 @@
             "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Byg72_ScanAugustJune2015/master/CITA_Byg72_2nd_Scan-0.02.e57n",
             "type": "e57n",
             "size": 9592209408,
-            "downloadAllowed": true
+            "downloadAllowed": true,
+            "downloadURL": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Byg72-ScanAugust2015/CITA_Byg72_2nd_Scan.e57"
         }
     ],
     "createdAt": "2016-02-11T22:48:24.118Z",
