@@ -1,0 +1,133 @@
+{
+    "state": "archived",
+    "label": "Kunsthallen Nikolaj",
+    "streetAddress": "Nikolaj Plads 10",
+    "description": "Since 1957, when Knud Petersen opened his art library, the building has played a significant role in contemporary art.",
+    "physicalAssets": [
+        {
+            "label": "Kunsthallen Nikolaj",
+            "buildm": {
+                "@id": "http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca",
+                "@type": "http://data.duraark.eu/vocab/buildm/PhysicalAsset",
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/name": [
+                    {
+                        "@value": "Kunsthallen Nikolaj"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/owner": [
+                    {
+                        "@value": "The Danish State"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/buildingArea": [
+                    {
+                        "@value": "1363 m2"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/floorCount": [
+                    {
+                        "@value": "4"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architecturalStyle": [
+                    {
+                        "@value": "The original building was a late-Romanesque, which was replaced by a larger Gothic building around 1500. Towards the end of the century a tower was built to the west of the nave. It was completed in 1591, and is a monumental example of the Renaissance architecture. In 1909 J. C. Jacobsen, donated a new spire. A few years later Permanent Secretary Rentzmann donated the funds to build a Gothic nave – a shorter version of the one that had burnt to the ground."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Since 1957, when Knud Petersen opened his art library, the building has played a significant role in contemporary art."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/location": [
+                    {
+                        "@value": "Located in the heart of the inner city close to Kongens Nytorv"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/streetAddress": [
+                    {
+                        "@value": "Nikolaj Plads 10"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalCodeStart": [
+                    {
+                        "@value": "1067"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/addressRegion": [
+                    {
+                        "@value": "København K"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalLocality": [
+                    {
+                        "@value": "København K"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architect": [
+                    {
+                        "@value": "Possibly Flemish Hans van Stenwinkel,"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/contributor": [
+                    {
+                        "@value": "J. C. Jacobsen and Permanent Secretary Rentzmann"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/rebuildingDate": [
+                    {
+                        "@value": "1909"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/modificationDetails": [
+                    {
+                        "@value": "A new spire was donated after the previous one collapsed during a storm"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/isRepresentedBy": [
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_2566144e3886ee4f3d86b5500a348dc0"
+                    }
+                ]
+            }
+        }
+    ],
+    "digitalObjects": [
+        {
+            "label": "CITA_NikolajKunsthal-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_2566144e3886ee4f3d86b5500a348dc0",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_16337e4f-232c-4d8e-ad1e-f2d25ffcc0ca"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_NikolajKunsthal/CITA_NikolajKunsthal.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_NikolajKunsthal/master/CITA_NikolajKunsthal-0.04.e57n",
+            "size": 3789486080
+        }
+    ],
+    "sessionFolder": "/duraark-storage/sessions/nygade_1001-fixed",
+    "files": [
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_NikolajKunsthal/master/CITA_NikolajKunsthal-0.04.e57n",
+            "type": "e57n",
+            "size": 3789486080,
+            "downloadAllowed": true
+        }
+    ],
+    "createdAt": "2016-02-11T22:48:24.118Z",
+    "updatedAt": "2016-02-11T22:48:24.118Z"
+}

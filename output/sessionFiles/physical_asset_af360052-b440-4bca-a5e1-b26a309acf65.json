@@ -1,0 +1,148 @@
+{
+    "state": "archived",
+    "label": "Kronborg Castle",
+    "streetAddress": "Kronborg 2C",
+    "description": "Kronborg is one of the most important Renaissance castles in Northern Europe. Immortalized as Elsinore in William Shakespeare's play Hamlet.  Part of UNESCO's World Heritage Sites list.",
+    "physicalAssets": [
+        {
+            "label": "Kronborg Castle",
+            "buildm": {
+                "@id": "http://data.duraark.eu/resource/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65",
+                "@type": "http://data.duraark.eu/vocab/buildm/PhysicalAsset",
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/name": [
+                    {
+                        "@value": "Kronborg Castle"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/owner": [
+                    {
+                        "@value": "The Danish State"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/numberOfRooms": [
+                    {
+                        "@value": "Tourism"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architecturalStyle": [
+                    {
+                        "@value": "Renaissance"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Kronborg is one of the most important Renaissance castles in Northern Europe. Immortalized as Elsinore in William Shakespeare's play Hamlet.  Part of UNESCO's World Heritage Sites list."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/location": [
+                    {
+                        "@value": "The castle is situated on the extreme northeastern tip of the island of Zealand at the narrowest point of the Øresund, the sound between Denmark and Sweden."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/streetAddress": [
+                    {
+                        "@value": "Kronborg 2C"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalCodeStart": [
+                    {
+                        "@value": "3000"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/addressRegion": [
+                    {
+                        "@value": "Helsingør"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalLocality": [
+                    {
+                        "@value": "Helsingør"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architect": [
+                    {
+                        "@value": "Flemings Hans Hendrik van Paesschen and Anthonis van Obbergen"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/startDate": [
+                    {
+                        "@value": "1420s"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/rebuildingDate": [
+                    {
+                        "@value": "1574, 1785 and 1923"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/modificationDetails": [
+                    {
+                        "@value": "First King Frederick II had the medieval fortress transformed into a Renaissance castle. Then, the castle ceased to be a royal residence and was converted into barracks for the army. Finally, the army left the castle, and after a thorough renovation it was opened to the public."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/isRepresentedBy": [
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_dac2a4b52e13ba618d0eb4ff1d492103"
+                    }
+                ]
+            }
+        }
+    ],
+    "digitalObjects": [
+        {
+            "label": "CITA_Kronborg-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_dac2a4b52e13ba618d0eb4ff1d492103",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_af360052-b440-4bca-a5e1-b26a309acf65"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_Kronborg/CITA_Kronborg.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Kronborg/master/CITA_Kronborg-0.04.e57n",
+            "size": 17238603776
+        }
+    ],
+    "sessionFolder": "/duraark-storage/sessions/nygade_1001-fixed",
+    "files": [
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Kronborg/master/CITA_Kronborg-0.04.e57n",
+            "type": "e57n",
+            "size": 17238603776,
+            "downloadAllowed": true
+        }
+    ],
+    "createdAt": "2016-02-11T22:48:24.118Z",
+    "updatedAt": "2016-02-11T22:48:24.118Z"
+}

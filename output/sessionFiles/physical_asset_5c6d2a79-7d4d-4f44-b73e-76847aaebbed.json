@@ -1,0 +1,373 @@
+{
+    "state": "archived",
+    "label": "DTU - Institute Of Architectural Engineering - Building 127",
+    "streetAddress": "Anker Engelunds Vej 101A, Bygning 127",
+    "description": "A green social study environment designed with a significant flexible architectural identit",
+    "physicalAssets": [
+        {
+            "label": "DTU - Institute Of Architectural Engineering - Building 127",
+            "buildm": {
+                "@id": "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed",
+                "@type": "http://data.duraark.eu/vocab/buildm/PhysicalAsset",
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/name": [
+                    {
+                        "@value": "DTU - Institute Of Architectural Engineering - Building 127"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/owner": [
+                    {
+                        "@value": "Technical University of Denmark (DTU)"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/buildingArea": [
+                    {
+                        "@value": "2071"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/floorCount": [
+                    {
+                        "@value": "2"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architecturalStyle": [
+                    {
+                        "@value": "Modern"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "A green social study environment designed with a significant flexible architectural identit"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/location": [
+                    {
+                        "@value": "In Greater Copenhagen, Kongens Lyngby a suburb to the city of Copenhagen."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/streetAddress": [
+                    {
+                        "@value": "Anker Engelunds Vej 101A, Bygning 127"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalCodeStart": [
+                    {
+                        "@value": "2800"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/addressRegion": [
+                    {
+                        "@value": "Lyngby-Taarbæk Kommune"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalLocality": [
+                    {
+                        "@value": "Kgs. Lyngby By, Lundtofte"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architect": [
+                    {
+                        "@value": "COO - Christensen & Co"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/contributor": [
+                    {
+                        "@value": "ALECTIA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/startDate": [
+                    {
+                        "@value": "2012"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/completionDate": [
+                    {
+                        "@value": "2013"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/cost": [
+                    {
+                        "@value": "8.850.000 USD"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/isRepresentedBy": [
+                    {
+                        "@value": "http://data.duraark.eu/resource/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_800b1ac404fb452ba911ef16d1f9bd57"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_761dc1dda92c47b1dd48d8bad4703e24"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/ifcspffile_ea4e84d97427758d7d7426be88a6f43e"
+                    }
+                ]
+            }
+        }
+    ],
+    "digitalObjects": [
+        {
+            "label": "CCO_DTU-Building127_Arch_PREVIEW.ifc",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/IFCSPFFile",
+                "@id": "http://data.duraark.eu/resource/ifcspffile_12db29e8f4d59d3d33171cafa8fe3d0c",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA, CCO"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "CCO_DTU-Building127_Arch_PREVIEW.ifc"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/CCO_DTU-Building127_Arch_PREVIEW.ifc",
+            "size": 11453493
+        },
+        {
+            "label": "CCO_DTU-Building127_CITA-Clean_PREVIEW-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_800b1ac404fb452ba911ef16d1f9bd57",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA, CCO"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "CCO_DTU-Building127_CITA-Clean_PREVIEW.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/CCO_DTU-Building127_CITA-Clean_PREVIEW-0.04.e57n",
+            "size": 20521293824
+        },
+        {
+            "label": "CCO_DTU-Building127_CITA-Sub5x5_PREVIEW-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_761dc1dda92c47b1dd48d8bad4703e24",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA, CCO"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "CCO_DTU-Building127_CITA-Sub5x5_PREVIEW.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/CCO_DTU-Building127_CITA-Sub5x5_PREVIEW-0.04.e57n",
+            "size": 778851328
+        },
+        {
+            "label": "CCO_DTU-Building127_CITA-UnClean_PREVIEW-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_8d670a04c1a4b8f91cf5eaa27f296e0e",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA, CCO"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "CCO_DTU-Building127_CITA-UnClean_PREVIEW.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/CCO_DTU-Building127_CITA-UnClean_PREVIEW-0.04.e57n",
+            "size": 19454152704
+        },
+        {
+            "label": "CCO_DTU-Building127_Eng-CON_PREVIEW.ifc",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/IFCSPFFile",
+                "@id": "http://data.duraark.eu/resource/ifcspffile_5312f6fd9c21f3b8d7123275a9fb7afc",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA, CCO"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "CCO_DTU-Building127_Eng-CON_PREVIEW.ifc"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/CCO_DTU-Building127_Eng-CON_PREVIEW.ifc",
+            "size": 28079416
+        },
+        {
+            "label": "CCO_DTU-Building127_Eng-HVAC_PREVIEW.ifc",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/IFCSPFFile",
+                "@id": "http://data.duraark.eu/resource/ifcspffile_ea4e84d97427758d7d7426be88a6f43e",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_5c6d2a79-7d4d-4f44-b73e-76847aaebbed"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA, CCO"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "CCO_DTU-Building127_Eng-HVAC_PREVIEW.ifc"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/CCO_DTU-Building127_Eng-HVAC_PREVIEW.ifc",
+            "size": 34881287
+        }
+    ],
+    "sessionFolder": "/duraark-storage/sessions/nygade_1001-fixed",
+    "files": [
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/CCO_DTU-Building127_Arch_PREVIEW.ifc",
+            "type": "ifc",
+            "size": 11453493,
+            "downloadAllowed": false
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/CCO_DTU-Building127_CITA-Clean_PREVIEW-0.04.e57n",
+            "type": "e57n",
+            "size": 20521293824,
+            "downloadAllowed": false
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/CCO_DTU-Building127_CITA-Sub5x5_PREVIEW-0.04.e57n",
+            "type": "e57n",
+            "size": 778851328,
+            "downloadAllowed": false
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/master/CCO_DTU-Building127_CITA-UnClean_PREVIEW-0.04.e57n",
+            "type": "e57n",
+            "size": 19454152704,
+            "downloadAllowed": false
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/CCO_DTU-Building127_Eng-CON_PREVIEW.ifc",
+            "type": "ifc",
+            "size": 28079416,
+            "downloadAllowed": false
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/DTU-Building127/derivative_copy/CCO_DTU-Building127_Eng-HVAC_PREVIEW.ifc",
+            "type": "ifc",
+            "size": 34881287,
+            "downloadAllowed": false
+        }
+    ],
+    "createdAt": "2016-02-11T22:48:24.118Z",
+    "updatedAt": "2016-02-11T22:48:24.118Z"
+}

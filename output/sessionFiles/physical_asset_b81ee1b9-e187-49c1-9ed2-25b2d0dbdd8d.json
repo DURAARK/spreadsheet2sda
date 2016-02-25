@@ -1,0 +1,63 @@
+{
+    "state": "archived",
+    "label": "The Royal Danish Academy of Fine Arts\r\nSchools of Architecture, Design and Conservation",
+    "streetAddress": "",
+    "description": "",
+    "physicalAssets": [
+        {
+            "label": "The Royal Danish Academy of Fine Arts\r\nSchools of Architecture, Design and Conservation",
+            "buildm": {
+                "@id": "http://data.duraark.eu/resource/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d",
+                "@type": "http://data.duraark.eu/vocab/buildm/PhysicalAsset",
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/name": [
+                    {
+                        "@value": "The Royal Danish Academy of Fine Arts\r\nSchools of Architecture, Design and Conservation"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/isRepresentedBy": [
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_e83e312b91d5bc0c8887fdd0c8affe71"
+                    }
+                ]
+            }
+        }
+    ],
+    "digitalObjects": [
+        {
+            "label": "CITA_UMTS_Exhibition-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_e83e312b91d5bc0c8887fdd0c8affe71",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_b81ee1b9-e187-49c1-9ed2-25b2d0dbdd8d"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_UMTS_Exhibition/CITA_UMTS_Exhibition.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_UMTS_Exhibition/master/CITA_UMTS_Exhibition-0.04.e57n",
+            "size": 14880409600
+        }
+    ],
+    "sessionFolder": "/duraark-storage/sessions/nygade_1001-fixed",
+    "files": [
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_UMTS_Exhibition/master/CITA_UMTS_Exhibition-0.04.e57n",
+            "type": "e57n",
+            "size": 14880409600,
+            "downloadAllowed": true
+        }
+    ],
+    "createdAt": "2016-02-11T22:48:24.118Z",
+    "updatedAt": "2016-02-11T22:48:24.118Z"
+}

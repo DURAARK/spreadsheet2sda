@@ -1,6 +1,7 @@
 var metadataFilePath = './data/2016-02-24_metadata.xlsx',
   paData2buildm = require('./lib/paData2buildm'),
   e57Data2buildm = require('./lib/e57Data2buildm'),
+  Workbook = require('./lib/workbook'),
   Converter = require('./lib/converter'),
   FileProvisioner = require('./lib/file-provisioner'),
   fileLocationMap = require('./data/fileLocationMap.json'),
@@ -8,11 +9,13 @@ var metadataFilePath = './data/2016-02-24_metadata.xlsx',
   path = require('path'),
   util = require('util');
 
+var workBook = new Workbook(metadataFilePath);
+
 var converter = new Converter({
-    metadataFilePath: metadataFilePath,
+    workBook: workBook,
     sheetName: 'MetaData',
     paRowStart: '6',
-    paRowEnd: '67',
+    paRowEnd: '33',
     e57RowStart: '48',
     e57RowEnd: '60',
     paData2buildm: paData2buildm,
@@ -20,13 +23,12 @@ var converter = new Converter({
     buildmBaseUrl: 'http://data.duraark.eu/vocab/buildm/'
   }),
   insertIntoSDAS = false,
-  // cols = ['AA', 'AD', 'AI', 'AJ', 'AK', 'AL', 'AV', 'AZ', 'BA', 'BC', 'BL', 'BM', 'BN', 'BQ', 'BS', 'BT', 'BU', 'BW', 'BZ', 'CD', 'CI'];
-  cols = ['AJ'];
+  cols = ['AA', 'AD', 'AI', 'AJ', 'AK', 'AL', 'AV', 'AZ', 'BA', 'BC', 'BL', 'BM', 'BN', 'BQ', 'BS', 'BT', 'BU', 'BW', 'BZ', 'CD', 'CI'];
+  // cols = ['AI'];
 
 var fileProvisioner = new FileProvisioner({
   dryRun: false
 });
-
 
 _.forEach(cols, function(col) {
   // fileProvisioner.provisionFiles({
@@ -34,7 +36,7 @@ _.forEach(cols, function(col) {
   //   rowStart: '62',
   //   rowEnd: '67',
   //   keyMap: fileLocationMap,
-  //   spreadsheet: converter // FIXXME: create a Spreadsheet object responsible for mapping data from XLSX to JSON
+  //   workBook: workBook
   // });
 
   // return;
@@ -50,16 +52,35 @@ _.forEach(cols, function(col) {
 
     var e57sJsonLD = [];
 
-    // var basePath = '/tmp/duraark-data' + paDataset.fileBaseUrl + '/';
-    var basePath = paDataset.fileBaseUrlAFS + '/';
-    basePath = basePath.replace('~', '/home/mhecher'); // FIXXME!
-    console.log('AFS: ' + basePath);
+    var filePathRootAFS = workBook.getCell('MetaData', col, '67'),
+      subSampleRate = workBook.getCell('MetaData', col, '63'),
+      filePathRootAFS = filePathRootAFS.replace('~/duraark-sessions', '/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions'); // FIXXME: make configurable!
 
-    converter.getDigitalObjectsUrls(basePath).then(function(filePaths) {
-      _.forEach(filePaths, function(filePath) {
+    // console.log('filePathRootAFS: ' + filePathRootAFS);
+
+    var basePathTIB = '/tmp/duraark-data' + paDataset.fileBaseUrl + '/';
+
+    converter.getDigitalObjectsUrls(basePathTIB).then(function(filePathsTIB) {
+      _.forEach(filePathsTIB, function(filePathTIB) {
         // console.log('    adding file: ' + filePath);
-        if (filePath.split('.').pop().toLowerCase() !== 'zip') {
-          var e57JsonLD = converter.createE57AsJsonLD(filePath, e57Dataset, paJsonLD.uri, paDataset.rightsDetails, '/tmp/duraark-data'); // FIXXME: javascriptify parameters!
+        var ext = path.extname(filePathTIB).toLowerCase();
+
+        if (ext !== '.zip') {
+
+          var filePathAFS = null;
+
+          if (ext === '.e57') {
+            var filename = filePathTIB.split('/').pop();
+            filename = path.basename(filePathTIB, ext) + '-' + subSampleRate + '.e57n';
+            filePathAFS = path.join(filePathRootAFS, 'master', filename);
+          } else {
+            filePathAFS = path.join(filePathRootAFS, 'derivative_copy', filePathTIB.split('/').pop());
+          }
+
+          // console.log('filePathTIB: ' + filePathTIB);
+          // console.log('filePathAFS: ' + filePathAFS);
+
+          var e57JsonLD = converter.createE57AsJsonLD(filePathTIB, filePathAFS, e57Dataset, paJsonLD.uri, paDataset.rightsDetails, '/tmp/duraark-data'); // FIXXME: javascriptify parameters! // FIXXME: make configurable!
 
           if (!paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy']) {
             paJsonLD.jsonld['http://data.duraark.eu/vocab/buildm/isRepresentedBy'] = [];

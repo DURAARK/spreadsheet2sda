@@ -1,0 +1,266 @@
+{
+    "state": "archived",
+    "label": "LUNDS NATION LANDSARKIVET, STUDENTBOSTÄDER",
+    "streetAddress": "LUNDS NATION, KV ARKIVET 1,\nSWEDEN",
+    "description": "Regional Archives in Lund, built in 1903, by the initiative of historian Martin Weibull whose son Lauritz Weibull became its first director, archivist.  \nRegional Archives in Lund ( LLA ) was one of Sweden's ten provincial archives and had primary responsibility for the archival documents from the regional government creators in Blekinge, Skåne and Halland. But the archives also holds private archive material such as land and farm archives , private archives and business archives. Previously a separate archive, since January 1, 2010, part of the National Archives. Archives was relocated 2013 to Gastelyckan outside the city. The original premises at Arkivgatan in central Lund has been taken over by Lund Nation, and is being converted into housing.",
+    "physicalAssets": [
+        {
+            "label": "LUNDS NATION LANDSARKIVET, STUDENTBOSTÄDER",
+            "buildm": {
+                "@id": "http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7",
+                "@type": "http://data.duraark.eu/vocab/buildm/PhysicalAsset",
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/name": [
+                    {
+                        "@value": "LUNDS NATION LANDSARKIVET, STUDENTBOSTÄDER"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/owner": [
+                    {
+                        "@value": "LUNDS NATION ARKIVET AB"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/floorCount": [
+                    {
+                        "@value": "7"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/numberOfRooms": [
+                    {
+                        "@value": "Student Housing"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architecturalStyle": [
+                    {
+                        "@value": "Nordic Classicism, Functionalism/Modernism, Modern"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Regional Archives in Lund, built in 1903, by the initiative of historian Martin Weibull whose son Lauritz Weibull became its first director, archivist.  \nRegional Archives in Lund ( LLA ) was one of Sweden's ten provincial archives and had primary responsibility for the archival documents from the regional government creators in Blekinge, Skåne and Halland. But the archives also holds private archive material such as land and farm archives , private archives and business archives. Previously a separate archive, since January 1, 2010, part of the National Archives. Archives was relocated 2013 to Gastelyckan outside the city. The original premises at Arkivgatan in central Lund has been taken over by Lund Nation, and is being converted into housing."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/location": [
+                    {
+                        "@value": "Central Lund"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/streetAddress": [
+                    {
+                        "@value": "LUNDS NATION, KV ARKIVET 1,\nSWEDEN"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalCodeStart": [
+                    {
+                        "@value": "223 51"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/addressRegion": [
+                    {
+                        "@value": "SCANIA, Greater Copenhagen"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalLocality": [
+                    {
+                        "@value": "LUND"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architect": [
+                    {
+                        "@value": "Carl Møller 1903, Bernt Nyberg 1968-71, FOJAB arkitekter 2014"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/startDate": [
+                    {
+                        "@value": "1903"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/rebuildingDate": [
+                    {
+                        "@value": "1968"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/modificationDetails": [
+                    {
+                        "@value": "The building was built as part of the original\nLandsarkivet 1903. 1971, in connection with the new building, the old building was re-built into studying/reading- room.\nThe building is characterized by its large windows in the massive brick facade, and internally by the visible steel frame. Here are today both corridor with\nshared kitchen loft apartments on two floors"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/isRepresentedBy": [
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_eb507843d0c0c60d2e97116d6885fc3e"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_1bda579821faeebb239f943d5e8bfa49"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f"
+                    }
+                ]
+            }
+        }
+    ],
+    "digitalObjects": [
+        {
+            "label": "FOJAB_Landsarkivet_Building1900_1970-0.02.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_eb507843d0c0c60d2e97116d6885fc3e",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "E57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "SCAN"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Ground floor survey of three generation buildings, two of which connected."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/event": [
+                    {
+                        "@value": "Comparison of designer BIM-model, and tolerance of the built ground-truth."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/FOJAB_Landsarkivet/FOJAB_Landsarkivet_Building1900_1970.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/FOJAB_Landsarkivet/master/FOJAB_Landsarkivet_Building1900_1970-0.02.e57n",
+            "size": 6293386240
+        },
+        {
+            "label": "FOJAB_Landsarkivet_Building2014-0.02.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_1bda579821faeebb239f943d5e8bfa49",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "E57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "SCAN"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Ground floor survey of three generation buildings, two of which connected."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/event": [
+                    {
+                        "@value": "Comparison of designer BIM-model, and tolerance of the built ground-truth."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/FOJAB_Landsarkivet/FOJAB_Landsarkivet_Building2014.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/FOJAB_Landsarkivet/master/FOJAB_Landsarkivet_Building2014-0.02.e57n",
+            "size": 3496070144
+        },
+        {
+            "label": "FOJAB_Landsarkivet.ifc",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/IFCSPFFile",
+                "@id": "http://data.duraark.eu/resource/ifcspffile_c5f18f540fe1ae5ae61cf4f7db2d2a7f",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_2aa78878-32a6-4e9a-ab54-1c65aded04c7"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "E57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "SCAN"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Ground floor survey of three generation buildings, two of which connected."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/event": [
+                    {
+                        "@value": "Comparison of designer BIM-model, and tolerance of the built ground-truth."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/FOJAB_Landsarkivet/FOJAB_Landsarkivet.ifc"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/FOJAB_Landsarkivet/derivative_copy/FOJAB_Landsarkivet.ifc",
+            "size": 177522583
+        }
+    ],
+    "sessionFolder": "/duraark-storage/sessions/nygade_1001-fixed",
+    "files": [
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/FOJAB_Landsarkivet/master/FOJAB_Landsarkivet_Building1900_1970-0.02.e57n",
+            "type": "e57n",
+            "size": 6293386240,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/FOJAB_Landsarkivet/master/FOJAB_Landsarkivet_Building2014-0.02.e57n",
+            "type": "e57n",
+            "size": 3496070144,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/FOJAB_Landsarkivet/derivative_copy/FOJAB_Landsarkivet.ifc",
+            "type": "ifc",
+            "size": 177522583,
+            "downloadAllowed": true
+        }
+    ],
+    "createdAt": "2016-02-11T22:48:24.118Z",
+    "updatedAt": "2016-02-11T22:48:24.118Z"
+}

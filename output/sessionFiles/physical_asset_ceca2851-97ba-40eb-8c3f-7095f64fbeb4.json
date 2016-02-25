@@ -1,0 +1,1388 @@
+{
+    "state": "archived",
+    "label": "Meldahls Smedie",
+    "streetAddress": "Danneskiolds-Samsøes Allé 51",
+    "description": "Originally  the Navy's naval dockyard, naval base, and the harbour magazines from 1766-72. Later Meldahls smithery from 1861. Refurbished into an Architecture School 1994-96.",
+    "physicalAssets": [
+        {
+            "label": "Meldahls Smedie",
+            "buildm": {
+                "@id": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4",
+                "@type": "http://data.duraark.eu/vocab/buildm/PhysicalAsset",
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/name": [
+                    {
+                        "@value": "Meldahls Smedie"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/owner": [
+                    {
+                        "@value": "State"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/buildingArea": [
+                    {
+                        "@value": "3317"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/floorCount": [
+                    {
+                        "@value": "2"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/numberOfRooms": [
+                    {
+                        "@value": "10"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architecturalStyle": [
+                    {
+                        "@value": "Nordic Classicism"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Originally  the Navy's naval dockyard, naval base, and the harbour magazines from 1766-72. Later Meldahls smithery from 1861. Refurbished into an Architecture School 1994-96."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/location": [
+                    {
+                        "@value": "Located in the harbour on the Holmen island, on axis from the Royal Palace Amalienborg on the other side of the harbour. More recently neighbouring the new opera house."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/streetAddress": [
+                    {
+                        "@value": "Danneskiolds-Samsøes Allé 51"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalCodeStart": [
+                    {
+                        "@value": "1434"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/addressRegion": [
+                    {
+                        "@value": "København K"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalLocality": [
+                    {
+                        "@value": "Copenhagen"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architect": [
+                    {
+                        "@value": "Ferdinand Meldahl"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/startDate": [
+                    {
+                        "@value": "1860"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/completionDate": [
+                    {
+                        "@value": "1861"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/rebuildingDate": [
+                    {
+                        "@value": "1994"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/modificationDetails": [
+                    {
+                        "@value": "The protected buildings (magazines, smithery etc.) was restored and converted into classrooms, auditoriums, multi -room activities, exhibitions, special institutes, research, study offices, workshops and administration."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/isRepresentedBy": [
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_a8c47c3435b74b20610e4a8483427bdb"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_cd5e82f67a9afb9773050ff5fb6628fd"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_fe35838492a0e734070719dcb0eb7d6d"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_a61fcba932a7309a2ac951387a81c665"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_5f0d083012b403c217fcb8a95532e6ab"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_b0ce54bfd8280bc752abcc6accc72719"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_6ee946cb7ef66989f43c22960aab4201"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_d542191716c84cf65d7ec9a5cf80c012"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_9f3c34c451e0fc94d81b3c4f0b7de245"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_1bf7dc2f346dc6b25231a61948d03e1c"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_f47a9922a73dbc2985e878f1b77c5051"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_6598c1a1212e7621bfaf5a1f3fee53ec"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_818ecd240afa08abfce8d1db1923bd92"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_01c9734fdcf1f8aa6c61209aaa11f06c"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_ca095e9b87b8728a9cbd0af0f5246c37"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_001eafea64d478149de1092a7bec5779"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_7dfd153c16bca9ebbf2b4a5c97fc3929"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_7b62c395f0cafd5a2f58ffaddd8c8031"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_e6363a09c97b6459203c781e78f65cb0"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_4ea8733da81625be180ad404b0ca48fd"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_cb0212fdba1f1bcc3e94c11c4420c558"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_0649921c9b65277e9aa05dfff2888dd3"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_27808eba5c64055d89434a4160aca370"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_342dd8fbdf6f6ff0a348e64bec57b182"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_507f95f9a9f9a0c5e83130bb4a83e10c"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_b711c6de8c265401f4531f10b8740d2b"
+                    }
+                ]
+            }
+        }
+    ],
+    "digitalObjects": [
+        {
+            "label": "CITA_KADK-Festsalen_QualityOfScan-Cleanness-DarkPoints300_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_a8c47c3435b74b20610e4a8483427bdb",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_QualityOfScan-Cleanness-DarkPoints300_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_QualityOfScan-Cleanness-DarkPoints300_PUBLIC-0.04.e57n",
+            "size": 929260544
+        },
+        {
+            "label": "CITA_KADK-Festsalen_QualityOfScan-Cleanness-StandardFilters_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_cd5e82f67a9afb9773050ff5fb6628fd",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_QualityOfScan-Cleanness-StandardFilters_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_QualityOfScan-Cleanness-StandardFilters_PUBLIC-0.04.e57n",
+            "size": 912049152
+        },
+        {
+            "label": "CITA_KADK-Festsalen_QualityOfScan-Cleanness-StandardFilters-DistanceBased_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_fe35838492a0e734070719dcb0eb7d6d",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_QualityOfScan-Cleanness-StandardFilters-DistanceBased_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_QualityOfScan-Cleanness-StandardFilters-DistanceBased_PUBLIC-0.04.e57n",
+            "size": 900180992
+        },
+        {
+            "label": "CITA_KADK-Festsalen_QualityOfScan-Cleanness-StrayPoints3-0-002-50_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_a61fcba932a7309a2ac951387a81c665",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_QualityOfScan-Cleanness-StrayPoints3-0-002-50_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_QualityOfScan-Cleanness-StrayPoints3-0-002-50_PUBLIC-0.04.e57n",
+            "size": 918572032
+        },
+        {
+            "label": "CITA_KADK-Festsalen_QualityOfScan-Cleanness-Unclean_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_5f0d083012b403c217fcb8a95532e6ab",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_QualityOfScan-Cleanness-Unclean_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_QualityOfScan-Cleanness-Unclean_PUBLIC-0.04.e57n",
+            "size": 885238784
+        },
+        {
+            "label": "CITA_KADK-Festsalen_ReferenceScans_QualityOfPlanning-Poor_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_b0ce54bfd8280bc752abcc6accc72719",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_ReferenceScans_QualityOfPlanning-Poor_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_ReferenceScans_QualityOfPlanning-Poor_PUBLIC-0.04.e57n",
+            "size": 2613208064
+        },
+        {
+            "label": "CITA_KADK-Festsalen_ScanPrecision_000-Res1-5-Qua3x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_6ee946cb7ef66989f43c22960aab4201",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_ScanPrecision_000-Res1-5-Qua3x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_ScanPrecision_000-Res1-5-Qua3x_PUBLIC-0.04.e57n",
+            "size": 653494272
+        },
+        {
+            "label": "CITA_KADK-Festsalen_ScanPrecision_001-Res1-4-Qua3x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_d542191716c84cf65d7ec9a5cf80c012",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_ScanPrecision_001-Res1-4-Qua3x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_ScanPrecision_001-Res1-4-Qua3x_PUBLIC-0.04.e57n",
+            "size": 1027216384
+        },
+        {
+            "label": "CITA_KADK-Festsalen_ScanPrecision_002-Res1-2-Qua3x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_9f3c34c451e0fc94d81b3c4f0b7de245",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_ScanPrecision_002-Res1-2-Qua3x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_ScanPrecision_002-Res1-2-Qua3x_PUBLIC-0.04.e57n",
+            "size": 4160780288
+        },
+        {
+            "label": "CITA_KADK-Festsalen_ScanPrecision_003-Res1-4-Qua4x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_1bf7dc2f346dc6b25231a61948d03e1c",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_ScanPrecision_003-Res1-4-Qua4x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_ScanPrecision_003-Res1-4-Qua4x_PUBLIC-0.04.e57n",
+            "size": 1032441856
+        },
+        {
+            "label": "CITA_KADK-Festsalen_ScanPrecision_004-Res1-4-Qua6x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_f47a9922a73dbc2985e878f1b77c5051",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen_ScanPrecision_004-Res1-4-Qua6x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_ScanPrecision_004-Res1-4-Qua6x_PUBLIC-0.04.e57n",
+            "size": 1030127616
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_QualityOfPlanning-Better_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_6598c1a1212e7621bfaf5a1f3fee53ec",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_QualityOfPlanning-Better_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_QualityOfPlanning-Better_PUBLIC-0.04.e57n",
+            "size": 2605626368
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-005-Res1-5-Q2x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_818ecd240afa08abfce8d1db1923bd92",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-005-Res1-5-Q2x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-005-Res1-5-Q2x_PUBLIC-0.04.e57n",
+            "size": 581481472
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-006-Res1-5-Q3x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_01c9734fdcf1f8aa6c61209aaa11f06c",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-006-Res1-5-Q3x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-006-Res1-5-Q3x_PUBLIC-0.04.e57n",
+            "size": 586473472
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-007-Res1-5-Q4x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_ca095e9b87b8728a9cbd0af0f5246c37",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-007-Res1-5-Q4x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-007-Res1-5-Q4x_PUBLIC-0.04.e57n",
+            "size": 588390400
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-008-Res1-5-Q6x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_001eafea64d478149de1092a7bec5779",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-008-Res1-5-Q6x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-008-Res1-5-Q6x_PUBLIC-0.04.e57n",
+            "size": 586980352
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-009-Res1-20-Q4x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_7dfd153c16bca9ebbf2b4a5c97fc3929",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-009-Res1-20-Q4x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-009-Res1-20-Q4x_PUBLIC-0.04.e57n",
+            "size": 33937408
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-010-Res1-20-Q6x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_7b62c395f0cafd5a2f58ffaddd8c8031",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-010-Res1-20-Q6x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-010-Res1-20-Q6x_PUBLIC-0.04.e57n",
+            "size": 33547264
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-011-Res1-20-Q8x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_e6363a09c97b6459203c781e78f65cb0",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-011-Res1-20-Q8x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-011-Res1-20-Q8x_PUBLIC-0.04.e57n",
+            "size": 33351680
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-012-Res1-16-Q3x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_4ea8733da81625be180ad404b0ca48fd",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-012-Res1-16-Q3x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-012-Res1-16-Q3x_PUBLIC-0.04.e57n",
+            "size": 54077440
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-013-Res1-10-Q3x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_cb0212fdba1f1bcc3e94c11c4420c558",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-013-Res1-10-Q3x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-013-Res1-10-Q3x_PUBLIC-0.04.e57n",
+            "size": 143185920
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-014-Res1-8-Q2x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_0649921c9b65277e9aa05dfff2888dd3",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-014-Res1-8-Q2x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-014-Res1-8-Q2x_PUBLIC-0.04.e57n",
+            "size": 224009216
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-015-Res1-5-Q2x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_27808eba5c64055d89434a4160aca370",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-015-Res1-5-Q2x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-015-Res1-5-Q2x_PUBLIC-0.04.e57n",
+            "size": 581521408
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-016-Res1-4-Q1x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_342dd8fbdf6f6ff0a348e64bec57b182",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-016-Res1-4-Q1x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-016-Res1-4-Q1x_PUBLIC-0.04.e57n",
+            "size": 373863424
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-017-Res1-2-Q1x_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_507f95f9a9f9a0c5e83130bb4a83e10c",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-017-Res1-2-Q1x_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-017-Res1-2-Q1x_PUBLIC-0.04.e57n",
+            "size": 1526106112
+        },
+        {
+            "label": "CITA_KADK-Festsalen-QualityOfScanScannerSettings-018-Res1-1-Q1_PUBLIC-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_b711c6de8c265401f4531f10b8740d2b",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ceca2851-97ba-40eb-8c3f-7095f64fbeb4"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_KADK-Festsalen/CITA_KADK-Festsalen-QualityOfScanScannerSettings-018-Res1-1-Q1_PUBLIC.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScanScannerSettings-018-Res1-1-Q1_PUBLIC-0.04.e57n",
+            "size": 3450212352
+        }
+    ],
+    "sessionFolder": "/duraark-storage/sessions/nygade_1001-fixed",
+    "files": [
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_QualityOfScan-Cleanness-DarkPoints300_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 929260544,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_QualityOfScan-Cleanness-StandardFilters_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 912049152,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_QualityOfScan-Cleanness-StandardFilters-DistanceBased_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 900180992,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_QualityOfScan-Cleanness-StrayPoints3-0-002-50_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 918572032,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_QualityOfScan-Cleanness-Unclean_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 885238784,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_ReferenceScans_QualityOfPlanning-Poor_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 2613208064,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_ScanPrecision_000-Res1-5-Qua3x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 653494272,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_ScanPrecision_001-Res1-4-Qua3x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 1027216384,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_ScanPrecision_002-Res1-2-Qua3x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 4160780288,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_ScanPrecision_003-Res1-4-Qua4x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 1032441856,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen_ScanPrecision_004-Res1-4-Qua6x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 1030127616,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_QualityOfPlanning-Better_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 2605626368,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-005-Res1-5-Q2x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 581481472,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-006-Res1-5-Q3x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 586473472,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-007-Res1-5-Q4x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 588390400,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-008-Res1-5-Q6x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 586980352,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-009-Res1-20-Q4x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 33937408,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-010-Res1-20-Q6x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 33547264,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-011-Res1-20-Q8x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 33351680,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-012-Res1-16-Q3x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 54077440,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-013-Res1-10-Q3x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 143185920,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-014-Res1-8-Q2x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 224009216,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-015-Res1-5-Q2x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 581521408,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-016-Res1-4-Q1x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 373863424,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScan_ScannerSettings-017-Res1-2-Q1x_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 1526106112,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_KADK_Festsalen/master/CITA_KADK-Festsalen-QualityOfScanScannerSettings-018-Res1-1-Q1_PUBLIC-0.04.e57n",
+            "type": "e57n",
+            "size": 3450212352,
+            "downloadAllowed": true
+        }
+    ],
+    "createdAt": "2016-02-11T22:48:24.118Z",
+    "updatedAt": "2016-02-11T22:48:24.118Z"
+}

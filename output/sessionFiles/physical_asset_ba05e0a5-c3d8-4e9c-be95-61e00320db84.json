@@ -1,0 +1,173 @@
+{
+    "state": "archived",
+    "label": "Design Museum Denmark",
+    "streetAddress": "Bredgade 68",
+    "description": "Initially King Frederiks Hospital. Built under Frederik V between 1752-57",
+    "physicalAssets": [
+        {
+            "label": "Design Museum Denmark",
+            "buildm": {
+                "@id": "http://data.duraark.eu/resource/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84",
+                "@type": "http://data.duraark.eu/vocab/buildm/PhysicalAsset",
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/name": [
+                    {
+                        "@value": "Design Museum Denmark"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/owner": [
+                    {
+                        "@value": "DesignMuseum Danmark"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/buildingArea": [
+                    {
+                        "@value": "5453"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/floorCount": [
+                    {
+                        "@value": "2"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architecturalStyle": [
+                    {
+                        "@value": "Rococo"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Initially King Frederiks Hospital. Built under Frederik V between 1752-57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/location": [
+                    {
+                        "@value": "Located in the old part of the city, in close proximity to the Royal Palace Amalienborg, it's street being of great importance to the old city axis. Grandiose and impressive with magnificent buildings, mansions, churches and squares."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/streetAddress": [
+                    {
+                        "@value": "Bredgade 68"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalCodeStart": [
+                    {
+                        "@value": "1260"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/addressRegion": [
+                    {
+                        "@value": "København K"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalLocality": [
+                    {
+                        "@value": "Copenhagen"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architect": [
+                    {
+                        "@value": "Nicolai Eigtved og Lauritz de Thurah Ivar Bentsen og Kaare Klint, 1920's"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/startDate": [
+                    {
+                        "@value": "1752"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/completionDate": [
+                    {
+                        "@value": "1757"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/constructionTime": [
+                    {
+                        "@value": "2000"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/rebuildingDate": [
+                    {
+                        "@value": "1923"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/modificationDetails": [
+                    {
+                        "@value": "The hospital was converted into a museum. Some of the most progressive Danish architects Ivar Bentsen and Thorkild Henningsen was responsible for the design of the buildings. Each room was decorated by architect Kaare Klint, while the lighting was the newly developed PH - lamps designed by Poul Henningsen ( The museum was the first Danish museum with electric lighting )"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/isRepresentedBy": [
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_a1b487285fe94f3fa4a25b0caec71987"
+                    }
+                ]
+            }
+        }
+    ],
+    "digitalObjects": [
+        {
+            "label": "DesignMuseum_Full-0.02.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_a1b487285fe94f3fa4a25b0caec71987",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_ba05e0a5-c3d8-4e9c-be95-61e00320db84"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scans"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Capture and describe spacial dimensions and prominent arrival: courtyard/entrance/lobby/garden. Outdoor-Indoor-Outdoor scans."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/event": [
+                    {
+                        "@value": "Planning and preparation of erection of two installations. One outdoor, courtyard infront of building or garden. And one indoor entrance/lobby. Visualization."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/02_E57/CITA_DesignMuseum/DesignMuseum_Full.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_DesignMuseum/master/DesignMuseum_Full-0.02.e57n",
+            "size": 5887470592
+        }
+    ],
+    "sessionFolder": "/duraark-storage/sessions/nygade_1001-fixed",
+    "files": [
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_DesignMuseum/master/DesignMuseum_Full-0.02.e57n",
+            "type": "e57n",
+            "size": 5887470592,
+            "downloadAllowed": true
+        }
+    ],
+    "createdAt": "2016-02-11T22:48:24.118Z",
+    "updatedAt": "2016-02-11T22:48:24.118Z"
+}

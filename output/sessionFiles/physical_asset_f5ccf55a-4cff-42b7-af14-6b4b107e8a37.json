@@ -1,0 +1,334 @@
+{
+    "state": "archived",
+    "label": "Hojbro Plads 4",
+    "streetAddress": "Højbro Plads 4",
+    "description": "For the last 20 years it has been an office building. Recently renovated into a large retail space on the street level, and luxuriuous apartments on the other floors.",
+    "physicalAssets": [
+        {
+            "label": "Hojbro Plads 4",
+            "buildm": {
+                "@id": "http://data.duraark.eu/resource/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37",
+                "@type": "http://data.duraark.eu/vocab/buildm/PhysicalAsset",
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/name": [
+                    {
+                        "@value": "Hojbro Plads 4"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/owner": [
+                    {
+                        "@value": "Barfoed Group"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/buildingArea": [
+                    {
+                        "@value": "2790"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/floorCount": [
+                    {
+                        "@value": "5"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/numberOfRooms": [
+                    {
+                        "@value": "Real Estate Management"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architecturalStyle": [
+                    {
+                        "@value": "Nordic Classicism"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "For the last 20 years it has been an office building. Recently renovated into a large retail space on the street level, and luxuriuous apartments on the other floors."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/location": [
+                    {
+                        "@value": "One of the most prominent addresses across Højbro from the governmental palace Christiansborg."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/streetAddress": [
+                    {
+                        "@value": "Højbro Plads 4"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalCodeStart": [
+                    {
+                        "@value": "1200"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/addressRegion": [
+                    {
+                        "@value": "København K"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalLocality": [
+                    {
+                        "@value": "Copenhagen"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architect": [
+                    {
+                        "@value": "Casper Frederik Harsdorff"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/startDate": [
+                    {
+                        "@value": "1796"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/completionDate": [
+                    {
+                        "@value": "1797"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/rebuildingDate": [
+                    {
+                        "@value": "2014"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/modificationDetails": [
+                    {
+                        "@value": "For bygningsejeren Barfoed Group har BS Arkitekter lavet en gennemgribende renovering af ejendommen, der nu rummer detail- og restaurant lejemål i stueplan og 20 eksklusive lejelejligheder på de øvrige etager i forskellige størrelser fra ca. 100 m² til ca. 250 m².Den karakteristiske facade fra 1850 med de sammenhængende indfatninger fra kælder til første sal med bueafslutning har fået store vinduespartier og er udvidet til Læderstræde.\nPå stueniveauet er gulvet blevet sænket, så det giver en stor, sammenhængende butik med direkte adgang fra pladsen og gaden. Dog er der indsat et tilbagetrukket plateau en halv-etage over gulvplan, der kan bruges til restauration og events."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/isRepresentedBy": [
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_f6cdaca4fee10f89819ab16abd74e641"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_c9afdb3edc4e8fa29ae8af9a847daf8d"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_d3171185cbd1e70e79455232d24080f2"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_893f037b80887d0b84f18dfd83de0de4"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_a9d5851d6bfe8c455dcede761519ddb7"
+                    }
+                ]
+            }
+        }
+    ],
+    "digitalObjects": [
+        {
+            "label": "LE34_Hojbroplads_1_PREVIEW-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_f6cdaca4fee10f89819ab16abd74e641",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "Le34"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "LE34_Hojbroplads_1_PREVIEW.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/LE34/Hojbroplads/master/LE34_Hojbroplads_1_PREVIEW-0.04.e57n",
+            "size": 2349816832
+        },
+        {
+            "label": "LE34_Hojbroplads_2-Floor_PREVIEW-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_c9afdb3edc4e8fa29ae8af9a847daf8d",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "Le34"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "LE34_Hojbroplads_2-Floor_PREVIEW.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/LE34/Hojbroplads/master/LE34_Hojbroplads_2-Floor_PREVIEW-0.04.e57n",
+            "size": 20056717312
+        },
+        {
+            "label": "LE34_Hojbroplads_3-Floor_PREVIEW-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_d3171185cbd1e70e79455232d24080f2",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "Le34"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "LE34_Hojbroplads_3-Floor_PREVIEW.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/LE34/Hojbroplads/master/LE34_Hojbroplads_3-Floor_PREVIEW-0.04.e57n",
+            "size": 23130642432
+        },
+        {
+            "label": "LE34_Hojbroplads_4-Floor_PREVIEW-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_893f037b80887d0b84f18dfd83de0de4",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "Le34"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "LE34_Hojbroplads_4-Floor_PREVIEW.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/LE34/Hojbroplads/master/LE34_Hojbroplads_4-Floor_PREVIEW-0.04.e57n",
+            "size": 16593071104
+        },
+        {
+            "label": "LE34_Hojbroplads_Facade_PREVIEW-0.04.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_a9d5851d6bfe8c455dcede761519ddb7",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_f5ccf55a-4cff-42b7-af14-6b4b107e8a37"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Preview"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "Le34"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scan"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "LE34_Hojbroplads_Facade_PREVIEW.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/LE34/Hojbroplads/master/LE34_Hojbroplads_Facade_PREVIEW-0.04.e57n",
+            "size": 7215480832
+        }
+    ],
+    "sessionFolder": "/duraark-storage/sessions/nygade_1001-fixed",
+    "files": [
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/LE34/Hojbroplads/master/LE34_Hojbroplads_1_PREVIEW-0.04.e57n",
+            "type": "e57n",
+            "size": 2349816832,
+            "downloadAllowed": false
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/LE34/Hojbroplads/master/LE34_Hojbroplads_2-Floor_PREVIEW-0.04.e57n",
+            "type": "e57n",
+            "size": 20056717312,
+            "downloadAllowed": false
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/LE34/Hojbroplads/master/LE34_Hojbroplads_3-Floor_PREVIEW-0.04.e57n",
+            "type": "e57n",
+            "size": 23130642432,
+            "downloadAllowed": false
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/LE34/Hojbroplads/master/LE34_Hojbroplads_4-Floor_PREVIEW-0.04.e57n",
+            "type": "e57n",
+            "size": 16593071104,
+            "downloadAllowed": false
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/LE34/Hojbroplads/master/LE34_Hojbroplads_Facade_PREVIEW-0.04.e57n",
+            "type": "e57n",
+            "size": 7215480832,
+            "downloadAllowed": false
+        }
+    ],
+    "createdAt": "2016-02-11T22:48:24.118Z",
+    "updatedAt": "2016-02-11T22:48:24.118Z"
+}

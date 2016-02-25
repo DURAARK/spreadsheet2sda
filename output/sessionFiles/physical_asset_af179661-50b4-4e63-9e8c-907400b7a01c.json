@@ -1,0 +1,222 @@
+{
+    "state": "archived",
+    "label": "The Royal Danish Academy of Fine Arts\nSchools of Architecture, Bygning 72",
+    "streetAddress": "Philip de Langes Allé 11",
+    "description": "Built in coherence with the original buildings of the Navy's naval dockyard, naval base, and the harbour magazines from 1766-72. Later Meldahls smithery from 1861. Refurbished into an Architecture School 1994-96.",
+    "physicalAssets": [
+        {
+            "label": "The Royal Danish Academy of Fine Arts\nSchools of Architecture, Bygning 72",
+            "buildm": {
+                "@id": "http://data.duraark.eu/resource/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c",
+                "@type": "http://data.duraark.eu/vocab/buildm/PhysicalAsset",
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/name": [
+                    {
+                        "@value": "The Royal Danish Academy of Fine Arts\nSchools of Architecture, Bygning 72"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/owner": [
+                    {
+                        "@value": "State"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/buildingArea": [
+                    {
+                        "@value": "2022"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/floorCount": [
+                    {
+                        "@value": "2"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architecturalStyle": [
+                    {
+                        "@value": "Nordic Classicism"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Built in coherence with the original buildings of the Navy's naval dockyard, naval base, and the harbour magazines from 1766-72. Later Meldahls smithery from 1861. Refurbished into an Architecture School 1994-96."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/location": [
+                    {
+                        "@value": "Located in the harbour on the Holmen island, on axis from the Royal Palace Amalienborg on the other side of the harbour. More recently neighbouring the new opera house."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/streetAddress": [
+                    {
+                        "@value": "Philip de Langes Allé 11"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalCodeStart": [
+                    {
+                        "@value": "1435"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/addressRegion": [
+                    {
+                        "@value": "København K"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalLocality": [
+                    {
+                        "@value": "Copenhagen"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architect": [
+                    {
+                        "@value": "Ferdinand Meldahl"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/completionDate": [
+                    {
+                        "@value": "1883"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/rebuildingDate": [
+                    {
+                        "@value": "1994"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/modificationDetails": [
+                    {
+                        "@value": "The protected buildings (magazines, smithery etc.) was restored and converted into classrooms, auditoriums, multi -room activities, exhibitions, special institutes, research, study offices, workshops and administration."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/isRepresentedBy": [
+                    {
+                        "@value": "http://data.duraark.eu/resource/ifcspffile_bd877ba84ac55dc73143a4401f084e71"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/e57file_bfd07c820939f20f82cb0ab90f834497"
+                    }
+                ]
+            }
+        }
+    ],
+    "digitalObjects": [
+        {
+            "label": "Byg72_BasedOn_1st_Scan_Alternative.ifc",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/IFCSPFFile",
+                "@id": "http://data.duraark.eu/resource/ifcspffile_bd877ba84ac55dc73143a4401f084e71",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scans"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Indoor scans: initial survey in a serie of three, register interior spacial configuration prior to reconfiguration by removal of walls."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/event": [
+                    {
+                        "@value": "Test and evaluate automated rebuilding of BIM models from point clouds"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/CITA_Byg72_ScanJune2015/Byg72_BasedOn_1st_Scan_Alternative.ifc"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Byg72_ScanJune2015/derivative_copy/Byg72_BasedOn_1st_Scan_Alternative.ifc",
+            "size": 419280
+        },
+        {
+            "label": "CITA_Byg72_1st_Scan-0.02.e57n",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/E57File",
+                "@id": "http://data.duraark.eu/resource/e57file_bfd07c820939f20f82cb0ab90f834497",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_af179661-50b4-4e63-9e8c-907400b7a01c"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Public"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/creator": [
+                    {
+                        "@value": "CITA"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/format": [
+                    {
+                        "@value": "e57"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasType": [
+                    {
+                        "@value": "Scans"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/hasFormatDetails": [
+                    {
+                        "@value": ".zip"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Indoor scans: initial survey in a serie of three, register interior spacial configuration prior to reconfiguration by removal of walls."
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/event": [
+                    {
+                        "@value": "Test and evaluate automated rebuilding of BIM models from point clouds"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "http://duraark.tib.eu/data/public/BuildingData/03_IFC_E57/CITA_Byg72_ScanJune2015/CITA_Byg72_1st_Scan.e57"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Byg72_ScanJune2015/master/CITA_Byg72_1st_Scan-0.02.e57n",
+            "size": 13756925952
+        }
+    ],
+    "sessionFolder": "/duraark-storage/sessions/nygade_1001-fixed",
+    "files": [
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Byg72_ScanJune2015/derivative_copy/Byg72_BasedOn_1st_Scan_Alternative.ifc",
+            "type": "ifc",
+            "size": 419280,
+            "downloadAllowed": true
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CITA_Byg72_ScanJune2015/master/CITA_Byg72_1st_Scan-0.02.e57n",
+            "type": "e57n",
+            "size": 13756925952,
+            "downloadAllowed": true
+        }
+    ],
+    "createdAt": "2016-02-11T22:48:24.118Z",
+    "updatedAt": "2016-02-11T22:48:24.118Z"
+}

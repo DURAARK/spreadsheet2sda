@@ -1,0 +1,225 @@
+{
+    "state": "archived",
+    "label": "DTU Compute",
+    "streetAddress": "Danmarks Tekniske Universitet, Bygning 324",
+    "description": "Part of a 0.5 billion USD upgrade of the campus",
+    "physicalAssets": [
+        {
+            "label": "DTU Compute",
+            "buildm": {
+                "@id": "http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab",
+                "@type": "http://data.duraark.eu/vocab/buildm/PhysicalAsset",
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Confidential"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/name": [
+                    {
+                        "@value": "DTU Compute"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/owner": [
+                    {
+                        "@value": "Technical University of Denmark (DTU)"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/buildingArea": [
+                    {
+                        "@value": "4.600 m2"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/floorCount": [
+                    {
+                        "@value": "3"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/numberOfRooms": [
+                    {
+                        "@value": "Research and education"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architecturalStyle": [
+                    {
+                        "@value": "Modern"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/description": [
+                    {
+                        "@value": "Part of a 0.5 billion USD upgrade of the campus"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/location": [
+                    {
+                        "@value": "In Greater Copenhagen, Kongens Lyngby a suburb to the city of Copenhagen"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/streetAddress": [
+                    {
+                        "@value": "Danmarks Tekniske Universitet, Bygning 324"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalCodeStart": [
+                    {
+                        "@value": "2800"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/addressRegion": [
+                    {
+                        "@value": "Lyngby-Taarbæk Kommune"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/postalLocality": [
+                    {
+                        "@value": "Kgs. Lyngby By, Lundtofte"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/architect": [
+                    {
+                        "@value": "Christensen & Co"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/startDate": [
+                    {
+                        "@value": "2011"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/completionDate": [
+                    {
+                        "@value": "2013"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/cost": [
+                    {
+                        "@value": "14,5 million USD"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/isRepresentedBy": [
+                    {
+                        "@value": "http://data.duraark.eu/resource/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/ifcspffile_7df44337105264132e90a3b11094c0a6"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd"
+                    },
+                    {
+                        "@value": "http://data.duraark.eu/resource/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46"
+                    }
+                ]
+            }
+        }
+    ],
+    "digitalObjects": [
+        {
+            "label": "CCO_DTU-Building324_Construction_Architectural.ifc",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/IFCSPFFile",
+                "@id": "http://data.duraark.eu/resource/ifcspffile_d4b8a69d4ce2788bd69f3956edb11d19",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Confidential"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "CCO_DTU-Building324_Construction_Architectural.ifc"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CCO/DTU-Building324_Construction/derivative_copy/CCO_DTU-Building324_Construction_Architectural.ifc",
+            "size": 20292492
+        },
+        {
+            "label": "CCO_DTU-Building324_Construction_Electrical.ifc",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/IFCSPFFile",
+                "@id": "http://data.duraark.eu/resource/ifcspffile_7df44337105264132e90a3b11094c0a6",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Confidential"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "CCO_DTU-Building324_Construction_Electrical.ifc"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CCO/DTU-Building324_Construction/derivative_copy/CCO_DTU-Building324_Construction_Electrical.ifc",
+            "size": 53909551
+        },
+        {
+            "label": "CCO_DTU-Building324_Construction_Structure.ifc",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/IFCSPFFile",
+                "@id": "http://data.duraark.eu/resource/ifcspffile_f5354cbd3e0dce5ea086f028b43a9ccd",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Confidential"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "CCO_DTU-Building324_Construction_Structure.ifc"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CCO/DTU-Building324_Construction/derivative_copy/CCO_DTU-Building324_Construction_Structure.ifc",
+            "size": 71904029
+        },
+        {
+            "label": "CCO_DTU-Building324_Construction_Ventilation.ifc",
+            "buildm": {
+                "@type": "http://data.duraark.eu/vocab/buildm/IFCSPFFile",
+                "@id": "http://data.duraark.eu/resource/ifcspffile_80ee5bd0bcc962e6c2b98a996add1b46",
+                "http://data.duraark.eu/vocab/buildm/represents": {
+                    "@value": "http://data.duraark.eu/resource/physical_asset_35078b25-1df6-46a4-afe0-6aa7da10f9ab"
+                },
+                "http://data.duraark.eu/vocab/buildm/rightsDetails": [
+                    {
+                        "@value": "Confidential"
+                    }
+                ],
+                "http://data.duraark.eu/vocab/buildm/filename": {
+                    "@value": "CCO_DTU-Building324_Construction_Ventilation.ifc"
+                }
+            },
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CCO/DTU-Building324_Construction/derivative_copy/CCO_DTU-Building324_Construction_Ventilation.ifc",
+            "size": 58045253
+        }
+    ],
+    "sessionFolder": "/duraark-storage/sessions/nygade_1001-fixed",
+    "files": [
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CCO/DTU-Building324_Construction/derivative_copy/CCO_DTU-Building324_Construction_Architectural.ifc",
+            "type": "ifc",
+            "size": 20292492,
+            "downloadAllowed": false
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CCO/DTU-Building324_Construction/derivative_copy/CCO_DTU-Building324_Construction_Electrical.ifc",
+            "type": "ifc",
+            "size": 53909551,
+            "downloadAllowed": false
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CCO/DTU-Building324_Construction/derivative_copy/CCO_DTU-Building324_Construction_Structure.ifc",
+            "type": "ifc",
+            "size": 71904029,
+            "downloadAllowed": false
+        },
+        {
+            "path": "/afs/cgv.tugraz.at/Fraunhofer/Projekte/DuraArK/datasets/sessions/fixed/CCO/DTU-Building324_Construction/derivative_copy/CCO_DTU-Building324_Construction_Ventilation.ifc",
+            "type": "ifc",
+            "size": 58045253,
+            "downloadAllowed": false
+        }
+    ],
+    "createdAt": "2016-02-11T22:48:24.118Z",
+    "updatedAt": "2016-02-11T22:48:24.118Z"
+}
